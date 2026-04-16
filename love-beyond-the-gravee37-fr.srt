@@ -1,0 +1,2619 @@
+1
+00:01:35,900 --> 00:01:40,980
+Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.
+
+2
+00:01:41,260 --> 00:01:43,990
+...
+
+3
+00:01:50,420 --> 00:01:51,260
+...
+
+4
+00:01:52,670 --> 00:01:53,580
+...
+
+5
+00:01:58,470 --> 00:01:59,420
+...
+
+6
+00:01:59,420 --> 00:02:00,300
+...
+
+7
+00:02:01,190 --> 00:02:02,190
+...
+
+8
+00:02:02,190 --> 00:02:03,220
+...
+
+9
+00:02:04,390 --> 00:02:05,230
+...
+
+10
+00:02:06,420 --> 00:02:08,070
+...
+
+11
+00:02:08,700 --> 00:02:10,070
+...
+
+12
+00:02:10,270 --> 00:02:11,110
+...
+
+13
+00:02:13,670 --> 00:02:14,510
+...
+
+14
+00:02:15,740 --> 00:02:17,140
+...
+
+15
+00:02:17,140 --> 00:02:18,510
+...
+
+16
+00:02:21,550 --> 00:02:22,510
+...
+
+17
+00:02:23,420 --> 00:02:24,950
+...
+
+18
+00:02:25,350 --> 00:02:26,390
+...
+
+19
+00:02:26,390 --> 00:02:27,460
+...
+
+20
+00:02:28,700 --> 00:02:29,540
+...
+
+21
+00:02:32,230 --> 00:02:33,700
+...
+
+22
+00:02:34,460 --> 00:02:35,830
+...
+
+23
+00:02:38,350 --> 00:02:39,350
+...
+
+24
+00:02:52,267 --> 00:02:53,240
+...
+
+25
+00:03:23,950 --> 00:03:24,790
+...
+
+26
+00:03:24,790 --> 00:03:26,420
+...
+
+27
+00:03:28,620 --> 00:03:29,790
+...
+
+28
+00:03:30,700 --> 00:03:32,110
+...
+
+29
+00:03:32,110 --> 00:03:33,230
+...
+
+30
+00:03:33,860 --> 00:03:35,180
+...
+
+31
+00:03:35,510 --> 00:03:37,230
+...
+
+32
+00:03:37,790 --> 00:03:39,580
+...
+
+33
+00:03:43,990 --> 00:03:45,620
+...
+
+34
+00:03:46,230 --> 00:03:47,580
+...
+
+35
+00:03:50,270 --> 00:03:51,230
+...
+
+36
+00:03:51,230 --> 00:03:52,620
+...
+
+37
+00:03:53,830 --> 00:03:54,860
+...
+
+38
+00:03:54,860 --> 00:03:56,270
+...
+
+39
+00:03:57,140 --> 00:03:58,510
+...
+
+40
+00:03:58,950 --> 00:04:00,900
+...
+
+41
+00:04:03,110 --> 00:04:04,620
+...
+
+42
+00:04:05,510 --> 00:04:07,005
+...
+
+43
+00:04:07,016 --> 00:04:07,990
+...
+
+44
+00:04:09,350 --> 00:04:10,620
+...
+
+45
+00:04:11,390 --> 00:04:12,860
+...
+
+46
+00:04:13,620 --> 00:04:14,990
+...
+
+47
+00:04:15,790 --> 00:04:17,180
+...
+
+48
+00:04:24,420 --> 00:04:25,910
+...
+
+49
+00:04:26,670 --> 00:04:28,550
+...
+
+50
+00:04:29,500 --> 00:04:31,030
+...
+
+51
+00:04:44,500 --> 00:04:48,660
+...
+
+52
+00:05:18,300 --> 00:05:19,140
+...
+
+53
+00:05:19,990 --> 00:05:21,940
+...
+
+54
+00:05:23,790 --> 00:05:25,620
+...
+
+55
+00:05:27,860 --> 00:05:29,380
+...
+
+56
+00:05:30,940 --> 00:05:32,710
+...
+
+57
+00:05:32,710 --> 00:05:33,710
+...
+
+58
+00:05:35,380 --> 00:05:36,620
+...
+
+59
+00:05:39,150 --> 00:05:40,350
+...
+
+60
+00:05:43,500 --> 00:05:44,350
+...
+
+61
+00:05:48,350 --> 00:05:49,190
+...
+
+62
+00:05:49,380 --> 00:05:51,300
+...
+
+63
+00:06:07,500 --> 00:06:08,940
+...
+
+64
+00:06:11,350 --> 00:06:12,190
+...
+
+65
+00:06:12,550 --> 00:06:14,060
+...
+
+66
+00:06:14,230 --> 00:06:15,670
+...
+
+67
+00:06:18,380 --> 00:06:19,940
+...
+
+68
+00:06:42,180 --> 00:06:43,020
+...
+
+69
+00:06:45,670 --> 00:06:46,940
+...
+
+70
+00:07:13,900 --> 00:07:15,740
+...
+
+71
+00:07:15,740 --> 00:07:16,990
+...
+
+72
+00:07:17,860 --> 00:07:20,180
+...
+
+73
+00:07:20,470 --> 00:07:21,213
+...
+
+74
+00:07:21,224 --> 00:07:22,500
+...
+
+75
+00:07:23,670 --> 00:07:25,300
+...
+
+76
+00:07:26,956 --> 00:07:28,129
+...
+
+77
+00:07:29,740 --> 00:07:31,740
+...
+
+78
+00:07:32,060 --> 00:07:33,030
+...
+
+79
+00:07:33,030 --> 00:07:34,116
+...
+
+80
+00:07:36,836 --> 00:07:38,470
+...
+
+81
+00:07:39,550 --> 00:07:41,030
+...
+
+82
+00:07:42,380 --> 00:07:43,380
+...
+
+83
+00:07:43,940 --> 00:07:44,820
+...
+
+84
+00:07:44,820 --> 00:07:46,500
+...
+
+85
+00:07:47,470 --> 00:07:48,470
+...
+
+86
+00:07:49,536 --> 00:07:50,710
+...
+
+87
+00:07:51,550 --> 00:07:52,390
+...
+
+88
+00:07:53,550 --> 00:07:54,550
+...
+
+89
+00:07:54,550 --> 00:07:55,470
+...
+
+90
+00:07:55,820 --> 00:07:57,300
+...
+
+91
+00:07:58,233 --> 00:08:00,099
+...
+
+92
+00:08:00,110 --> 00:08:01,380
+...
+
+93
+00:08:02,790 --> 00:08:03,710
+...
+
+94
+00:08:04,180 --> 00:08:05,020
+...
+
+95
+00:08:05,663 --> 00:08:06,689
+...
+
+96
+00:08:07,180 --> 00:08:08,020
+...
+
+97
+00:08:08,380 --> 00:08:09,550
+...
+
+98
+00:08:12,740 --> 00:08:13,740
+...
+
+99
+00:08:14,470 --> 00:08:15,310
+...
+
+100
+00:08:15,310 --> 00:08:16,580
+...
+
+101
+00:08:22,180 --> 00:08:23,030
+...
+
+102
+00:08:24,500 --> 00:08:25,820
+...
+
+103
+00:08:27,420 --> 00:08:28,420
+...
+
+104
+00:08:30,230 --> 00:08:31,180
+...
+
+105
+00:08:43,540 --> 00:08:51,100
+...
+
+106
+00:09:02,110 --> 00:09:02,950
+...
+
+107
+00:09:03,900 --> 00:09:04,740
+...
+
+108
+00:09:07,470 --> 00:09:08,310
+...
+
+109
+00:09:09,420 --> 00:09:10,280
+...
+
+110
+00:09:10,420 --> 00:09:11,360
+...
+
+111
+00:09:11,360 --> 00:09:12,590
+...
+
+112
+00:09:12,950 --> 00:09:13,900
+...
+
+113
+00:09:15,990 --> 00:09:16,930
+...
+
+114
+00:09:16,930 --> 00:09:18,590
+...
+
+115
+00:09:22,990 --> 00:09:23,860
+...
+
+116
+00:09:23,860 --> 00:09:25,260
+...
+
+117
+00:09:25,590 --> 00:09:26,590
+...
+
+118
+00:09:27,860 --> 00:09:28,900
+...
+
+119
+00:09:29,660 --> 00:09:30,710
+...
+
+120
+00:09:31,350 --> 00:09:32,190
+...
+
+121
+00:09:32,710 --> 00:09:33,550
+...
+
+122
+00:09:34,990 --> 00:09:35,860
+...
+
+123
+00:09:36,350 --> 00:09:37,500
+...
+
+124
+00:09:37,830 --> 00:09:38,860
+...
+
+125
+00:09:39,199 --> 00:09:40,492
+...
+
+126
+00:09:40,590 --> 00:09:41,430
+...
+
+127
+00:09:47,110 --> 00:09:48,140
+...
+
+128
+00:10:43,950 --> 00:10:44,860
+...
+
+129
+00:10:45,780 --> 00:10:47,260
+...
+
+130
+00:10:59,740 --> 00:11:00,590
+...
+
+131
+00:11:00,590 --> 00:11:01,663
+...
+
+132
+00:11:07,540 --> 00:11:09,350
+...
+
+133
+00:11:12,230 --> 00:11:14,350
+...
+
+134
+00:11:16,260 --> 00:11:18,020
+...
+
+135
+00:11:19,860 --> 00:11:21,140
+...
+
+136
+00:11:22,780 --> 00:11:24,380
+...
+
+137
+00:11:26,710 --> 00:11:28,070
+...
+
+138
+00:11:28,380 --> 00:11:29,230
+...
+
+139
+00:11:30,470 --> 00:11:31,780
+...
+
+140
+00:11:31,780 --> 00:11:32,740
+...
+
+141
+00:11:33,190 --> 00:11:35,620
+...
+
+142
+00:11:36,380 --> 00:11:38,110
+...
+
+143
+00:11:43,860 --> 00:11:46,780
+...
+
+144
+00:11:48,310 --> 00:11:49,430
+...
+
+145
+00:11:50,660 --> 00:11:53,860
+...
+
+146
+00:11:54,860 --> 00:11:56,590
+...
+
+147
+00:11:57,860 --> 00:11:59,430
+...
+
+148
+00:11:59,900 --> 00:12:00,830
+...
+
+149
+00:12:01,260 --> 00:12:02,100
+...
+
+150
+00:12:02,430 --> 00:12:04,190
+...
+
+151
+00:12:05,350 --> 00:12:07,020
+Je vais vous préparer un édit.
+
+152
+00:12:07,780 --> 00:12:09,230
+Tu m'as protégé,
+
+153
+00:12:09,900 --> 00:12:12,110
+vous êtes donc intitulé Marquis de Zhonghe
+
+154
+00:12:12,740 --> 00:12:15,110
+et promu
+au vice-commissaire militaire
+
+155
+00:12:15,830 --> 00:12:16,990
+et vice-chancelier.
+
+156
+00:12:18,310 --> 00:12:20,740
+Vous pouvez décider quand cet édit
+
+157
+00:12:21,950 --> 00:12:22,830
+est révélé.
+
+158
+00:12:24,950 --> 00:12:25,900
+Merci, Votre Majesté.
+
+159
+00:12:28,740 --> 00:12:29,710
+Croc,
+
+160
+00:12:30,310 --> 00:12:31,500
+veux-tu vraiment
+
+161
+00:12:31,500 --> 00:12:32,900
+vivre comme l'ombre de Duan Xu ?
+
+162
+00:12:37,660 --> 00:12:39,430
+(Duan Xu dirigeait l'élite du Grand Liang)
+
+163
+00:12:39,590 --> 00:12:40,620
+(et a marché vers Youzhou.)
+
+164
+00:12:40,990 --> 00:12:42,780
+(Liang)
+(Après des mois de dure bataille,)
+
+165
+00:12:43,110 --> 00:12:43,990
+(maintenant,)
+
+166
+00:12:43,990 --> 00:12:45,710
+(des 17 Préfectures,)
+
+167
+00:12:45,900 --> 00:12:47,540
+(11 sont repris.)
+
+168
+00:12:47,860 --> 00:12:50,660
+(Uniquement Youzhou, Fengzhou, Huanzhou)
+
+169
+00:12:50,950 --> 00:12:53,950
+(Jingzhou, Yizhou et Guizhou)
+
+170
+00:12:54,140 --> 00:12:55,740
+(Liang)
+(sont détenus par North Chong.)
+
+171
+00:12:55,990 --> 00:12:57,110
+Le jour où j'ai pris le commandement
+
+172
+00:12:57,110 --> 00:12:57,950
+des Trois Armées,
+
+173
+00:12:58,950 --> 00:12:59,990
+Je vous l'ai dit clairement.
+
+174
+00:13:01,020 --> 00:13:01,860
+Ce que nous recherchons
+
+175
+00:13:02,780 --> 00:13:03,990
+c'est gagner des batailles,
+
+176
+00:13:06,110 --> 00:13:07,430
+mais pour sauvegarder
+
+177
+00:13:07,430 --> 00:13:08,270
+notre peuple.
+
+178
+00:13:08,990 --> 00:13:10,380
+La cavalerie Chong est féroce.
+
+179
+00:13:11,590 --> 00:13:12,950
+Ils comptaient autrefois
+
+180
+00:13:13,310 --> 00:13:14,620
+sur leur cavalerie pour balayer
+
+181
+00:13:14,620 --> 00:13:15,470
+tout au sud.
+
+182
+00:13:17,110 --> 00:13:18,660
+Ils ont fait du mal à notre peuple,
+
+183
+00:13:20,350 --> 00:13:22,020
+s'empare des 17 Préfectures,
+
+184
+00:13:22,590 --> 00:13:23,950
+et nous avons massacré nos frères.
+
+185
+00:13:24,860 --> 00:13:26,780
+Maintenant que nous sommes sur cette terre,
+
+186
+00:13:28,550 --> 00:13:29,900
+nous ne devons pas reculer d'un pas.
+
+187
+00:13:30,430 --> 00:13:31,990
+Notre armée est ici
+
+188
+00:13:32,100 --> 00:13:33,810
+défendre notre propre terre
+
+189
+00:13:35,430 --> 00:13:36,620
+et honorer les âmes déchues.
+
+190
+00:13:49,740 --> 00:13:50,795
+C'est la bannière de Liang
+
+191
+00:13:50,806 --> 00:13:52,780
+Chenying est mort pour le garder.
+
+192
+00:13:54,140 --> 00:13:55,020
+Général,
+
+193
+00:13:55,020 --> 00:13:56,660
+(Liang)
+Je veux me battre sur le terrain
+
+194
+00:13:56,660 --> 00:13:57,590
+et défendre notre nation
+
+195
+00:13:57,590 --> 00:13:58,710
+comme toi.
+
+196
+00:14:06,950 --> 00:14:07,990
+Battez-vous pour notre terre !
+
+197
+00:14:08,230 --> 00:14:09,230
+Nous devons gagner !
+
+198
+00:14:10,190 --> 00:14:12,830
+Battez-vous pour notre terre ! Nous devons gagner !
+
+199
+00:14:13,070 --> 00:14:15,710
+Battez-vous pour notre terre ! Nous devons gagner !
+
+200
+00:14:15,950 --> 00:14:18,540
+Battez-vous pour notre terre ! Nous devons gagner !
+
+201
+00:14:19,190 --> 00:14:22,020
+Battez-vous pour notre terre ! Nous devons gagner !
+
+202
+00:14:35,260 --> 00:14:41,500
+(Liang)
+
+203
+00:14:47,710 --> 00:14:49,310
+Votre Majesté, vous chérissez le peuple.
+
+204
+00:14:49,780 --> 00:14:50,710
+Vous avez récolté
+
+205
+00:14:50,710 --> 00:14:51,900
+piliers du royaume.
+
+206
+00:14:52,426 --> 00:14:53,609
+Désormais, les politiques honorent le tribunal ;
+
+207
+00:14:53,620 --> 00:14:54,753
+les forces Chong sont réprimées.
+
+208
+00:14:55,310 --> 00:14:56,150
+Prince Jin
+
+209
+00:14:56,310 --> 00:14:57,350
+n'échouera sûrement pas
+
+210
+00:14:57,350 --> 00:14:58,350
+vos espoirs.
+
+211
+00:14:59,620 --> 00:15:01,430
+Laissez-moi tranquille un moment.
+
+212
+00:15:34,590 --> 00:15:35,660
+Père,
+
+213
+00:15:37,950 --> 00:15:39,830
+ton fils le plus timide
+
+214
+00:15:42,470 --> 00:15:43,860
+a fait tout ce qu'il pouvait.
+
+215
+00:15:46,230 --> 00:15:47,310
+Dans cette vie,
+
+216
+00:15:50,230 --> 00:15:52,110
+Je ne pourrais pas vivre pour voir Great Liang
+
+217
+00:15:54,660 --> 00:15:56,260
+récupérer toutes les terres perdues.
+
+218
+00:15:58,660 --> 00:15:59,830
+Je ne peux que mourir
+
+219
+00:16:03,230 --> 00:16:04,070
+avec regret.
+
+220
+00:16:33,660 --> 00:16:35,990
+(Trois jours
+après le retour de la commande à Nandu,)
+
+221
+00:16:36,189 --> 00:16:37,602
+(l'empereur de Liang est décédé.)
+
+222
+00:16:37,613 --> 00:16:39,076
+(Le nouvel empereur monte sur le trône.)
+
+223
+00:16:40,070 --> 00:16:41,020
+(À ce moment,)
+
+224
+00:16:41,020 --> 00:16:42,260
+(sur la rive nord, Duan Xu)
+
+225
+00:16:42,430 --> 00:16:44,780
+(a dirigé l'armée du Grand Liang devant Youzhou)
+
+226
+00:16:45,110 --> 00:16:46,260
+(et repris en douceur)
+
+227
+00:16:46,660 --> 00:16:50,500
+(Fengzhou, Huanzhou, Jingzhou,
+Yizhou et Guizhou.)
+
+228
+00:16:52,020 --> 00:16:55,900
+Longue vie à Votre Majesté.
+
+229
+00:17:15,060 --> 00:17:15,950
+Jeune Maître, mauvaise nouvelle !
+
+230
+00:17:16,190 --> 00:17:17,030
+Mauvaise nouvelle !
+
+231
+00:17:17,910 --> 00:17:18,750
+Jeune Maître,
+
+232
+00:17:19,007 --> 00:17:20,147
+des voleurs sont entrés par effraction dans la maison.
+
+233
+00:17:20,923 --> 00:17:22,239
+Aucun des objets de valeur n'a été emporté,
+
+234
+00:17:22,390 --> 00:17:23,820
+mais l'étude a été bouleversée.
+
+235
+00:17:34,310 --> 00:17:36,190
+(Les Entretiens)
+Je vais vous préparer un édit.
+
+236
+00:17:37,500 --> 00:17:39,060
+Tu m'as protégé,
+
+237
+00:17:39,710 --> 00:17:41,990
+vous êtes donc intitulé Marquis de Zhonghe
+
+238
+00:17:42,630 --> 00:17:44,710
+et promu
+au vice-commissaire militaire
+
+239
+00:17:45,430 --> 00:17:46,710
+et vice-chancelier.
+
+240
+00:17:47,990 --> 00:17:50,430
+Vous pouvez décider quand cet édit
+
+241
+00:17:51,580 --> 00:17:52,580
+est révélé.
+
+242
+00:17:56,863 --> 00:17:57,876
+(L'édit du défunt empereur)
+
+243
+00:17:59,780 --> 00:18:00,630
+(est parti.)
+
+244
+00:18:02,230 --> 00:18:03,190
+Vous avez été
+
+245
+00:18:03,870 --> 00:18:05,340
+le plus jeune érudit de tous
+
+246
+00:18:05,340 --> 00:18:06,820
+depuis la fondation de Great Liang.
+
+247
+00:18:07,910 --> 00:18:10,630
+Toujours craintif, mais soucieux du peuple,
+
+248
+00:18:11,500 --> 00:18:13,630
+vous portez la vertu de Yan Hui.
+
+249
+00:18:14,950 --> 00:18:15,790
+Duan Xu
+
+250
+00:18:16,190 --> 00:18:17,630
+a une famille noble derrière lui
+
+251
+00:18:17,950 --> 00:18:19,340
+et d'innombrables ombres.
+
+252
+00:18:20,340 --> 00:18:21,580
+Votre chance
+
+253
+00:18:22,500 --> 00:18:23,670
+vient mais cette fois.
+
+254
+00:18:25,340 --> 00:18:26,580
+Mon décret
+
+255
+00:18:26,990 --> 00:18:29,540
+t'élèvera haut
+pour atteindre vos objectifs.
+
+256
+00:18:30,820 --> 00:18:33,430
+Après que Jin soit monté sur le trône,
+
+257
+00:18:34,230 --> 00:18:35,230
+tu deviendras
+
+258
+00:18:36,190 --> 00:18:37,670
+son ministre le plus compétent.
+
+259
+00:18:41,260 --> 00:18:43,190
+Mais à ce décret,
+
+260
+00:18:43,740 --> 00:18:45,340
+Je dois ajouter une clause supplémentaire :
+
+261
+00:18:46,580 --> 00:18:48,470
+Duan Xu n'est pas arrivé à temps,
+
+262
+00:18:49,060 --> 00:18:50,910
+receler de la négligence
+et intention de trahison.
+
+263
+00:18:51,870 --> 00:18:53,950
+À son retour à Nandu,
+
+264
+00:18:54,470 --> 00:18:55,990
+il doit être déchu de son commandement
+
+265
+00:18:57,230 --> 00:18:58,300
+et exécuté.
+
+266
+00:18:59,910 --> 00:19:00,990
+Dans tout le Grand Liang,
+
+267
+00:19:02,060 --> 00:19:03,060
+il est
+
+268
+00:19:03,060 --> 00:19:04,390
+le général le plus exceptionnel.
+
+269
+00:19:06,910 --> 00:19:08,020
+Mais cette lame
+
+270
+00:19:09,390 --> 00:19:11,230
+doit rester dans ma main.
+
+271
+00:19:12,430 --> 00:19:13,270
+A partir de ce jour,
+
+272
+00:19:14,500 --> 00:19:17,230
+cela doit appartenir au nouvel empereur.
+
+273
+00:19:34,230 --> 00:19:35,070
+M. Fang.
+
+274
+00:19:44,230 --> 00:19:45,070
+Mlle Duan.
+
+275
+00:19:46,540 --> 00:19:47,380
+M. Fang,
+
+276
+00:19:51,150 --> 00:19:53,150
+nous avons fait des boulettes supplémentaires à la maison.
+
+277
+00:19:53,910 --> 00:19:56,870
+Puisque vous n'avez pas de famille à Nandu,
+
+278
+00:19:57,670 --> 00:19:58,510
+Je voulais
+
+279
+00:19:59,260 --> 00:20:01,260
+pour en envoyer chez vous.
+
+280
+00:20:04,430 --> 00:20:06,230
+- Super.
+- Bien.
+
+281
+00:20:09,900 --> 00:20:17,580
+(Parfum Yueran)
+
+282
+00:20:23,340 --> 00:20:24,740
+Lorsque des troubles ont éclaté à Nandu,
+
+283
+00:20:25,580 --> 00:20:27,740
+J'ai reçu une lettre anonyme.
+
+284
+00:20:29,950 --> 00:20:31,580
+Grâce à l'avertissement qu'il contient,
+
+285
+00:20:32,740 --> 00:20:34,740
+le clan Duan a évité la tourmente.
+
+286
+00:20:39,630 --> 00:20:40,870
+Cette lettre était-elle
+
+287
+00:20:43,340 --> 00:20:44,500
+de toi ?
+
+288
+00:20:53,230 --> 00:20:54,070
+Je...
+
+289
+00:20:54,670 --> 00:20:56,020
+J'ai reconnu ton écriture.
+
+290
+00:21:03,300 --> 00:21:04,430
+Alors, Mlle Duan,
+
+291
+00:21:05,710 --> 00:21:07,190
+c'est pour ça que tu m'as apporté des dumplings.
+
+292
+00:21:15,870 --> 00:21:16,820
+En fait,
+
+293
+00:21:17,540 --> 00:21:19,300
+toi et Xu devez être
+
+294
+00:21:20,260 --> 00:21:21,100
+assez proche, non ?
+
+295
+00:21:23,670 --> 00:21:25,260
+Dans ce monde,
+
+296
+00:21:27,430 --> 00:21:28,740
+d'autres sont ceux qui doivent à Xu.
+
+297
+00:21:30,540 --> 00:21:31,950
+Il n’a jamais rien dû à personne.
+
+298
+00:21:39,100 --> 00:21:39,950
+Cependant,
+
+299
+00:21:42,500 --> 00:21:44,300
+bientôt, il me le devra.
+
+300
+00:21:48,230 --> 00:21:49,740
+Alors je vous remercierai pour lui,
+
+301
+00:21:50,500 --> 00:21:51,430
+Fang Xianye.
+
+302
+00:21:55,710 --> 00:21:56,550
+Xu.
+
+303
+00:21:56,870 --> 00:21:57,740
+Xu.
+
+304
+00:22:05,950 --> 00:22:06,790
+Qu'est-ce que c'est?
+
+305
+00:22:07,470 --> 00:22:09,060
+Je ne peux pas attacher ça.
+
+306
+00:22:21,470 --> 00:22:22,390
+Dans ce cas,
+
+307
+00:22:23,100 --> 00:22:24,740
+peux-tu m'appeler frère ?
+
+308
+00:22:29,990 --> 00:22:31,670
+Vous n'avez pas rejoint ma famille.
+
+309
+00:22:32,430 --> 00:22:33,270
+Je...
+
+310
+00:22:33,990 --> 00:22:34,830
+Vous êtes
+
+311
+00:22:35,190 --> 00:22:36,390
+profitant de moi.
+
+312
+00:22:37,730 --> 00:22:39,300
+Tu n'es pas mon frère.
+
+313
+00:22:51,100 --> 00:22:51,940
+Frère.
+
+314
+00:22:59,540 --> 00:23:00,910
+Vos essais
+
+315
+00:23:01,190 --> 00:23:03,580
+sont les meilleurs du royaume.
+
+316
+00:23:04,390 --> 00:23:06,470
+Un jour, vous serez le meilleur érudit.
+
+317
+00:23:15,660 --> 00:23:19,940
+(Duan Shunxi)
+
+318
+00:23:34,430 --> 00:23:37,710
+Prince Ji et Prince Su
+
+319
+00:23:38,190 --> 00:23:39,300
+levé des troupes pour trahison.
+
+320
+00:23:40,020 --> 00:23:41,500
+Derrière eux se tenait
+
+321
+00:23:41,500 --> 00:23:42,430
+Duc Pei
+
+322
+00:23:42,430 --> 00:23:44,300
+et le chancelier Du.
+
+323
+00:23:45,340 --> 00:23:46,630
+En tant que fonctionnaires du tribunal,
+
+324
+00:23:47,190 --> 00:23:48,430
+ils devraient servir le royaume,
+
+325
+00:23:48,430 --> 00:23:49,710
+pourtant ils se sont tournés vers la trahison.
+
+326
+00:23:50,740 --> 00:23:53,230
+Évoquez le coupable Yao Jianhe.
+
+327
+00:23:53,430 --> 00:23:54,910
+L'édit du défunt empereur est ici.
+
+328
+00:24:03,950 --> 00:24:05,740
+L'édit du défunt empereur est ici.
+
+329
+00:24:05,980 --> 00:24:08,580
+(Décret)
+
+330
+00:24:08,580 --> 00:24:09,420
+Cet édit représente
+
+331
+00:24:09,670 --> 00:24:10,710
+le défunt empereur.
+
+332
+00:24:12,580 --> 00:24:14,260
+(Décret à Fang Ji et Duan Xu)
+
+333
+00:24:23,390 --> 00:24:24,383
+L'édit du défunt empereur :
+
+334
+00:24:25,000 --> 00:24:26,786
+Fang Ji a gagné du mérite
+protéger l'Empereur.
+
+335
+00:24:27,096 --> 00:24:29,429
+Il est nommé vice-commissaire militaire
+et vice-chancelier.
+
+336
+00:24:29,630 --> 00:24:31,430
+Duan Xu a échoué
+dans la protection de l'Empereur.
+
+337
+00:24:31,526 --> 00:24:32,712
+Il nourrissait des intentions de trahison.
+
+338
+00:24:33,150 --> 00:24:34,100
+Il doit être mis à mort.
+
+339
+00:24:34,500 --> 00:24:36,780
+Il porte le sceau du défunt empereur.
+
+340
+00:24:36,950 --> 00:24:37,820
+C'est absolument vrai.
+
+341
+00:24:38,430 --> 00:24:39,300
+Comment oses-tu !
+
+342
+00:24:39,740 --> 00:24:41,670
+Le maréchal Duan commande les Trois Armées.
+
+343
+00:24:41,990 --> 00:24:43,630
+Il se bat toujours
+pour nous au front.
+
+344
+00:24:43,930 --> 00:24:44,780
+Votre Majesté,
+
+345
+00:24:44,780 --> 00:24:46,100
+vous devriez exécuter
+
+346
+00:24:46,230 --> 00:24:47,580
+un rebelle si traître
+
+347
+00:24:47,820 --> 00:24:48,660
+immédiatement.
+
+348
+00:24:48,820 --> 00:24:49,660
+Comment oses-tu !
+
+349
+00:24:49,830 --> 00:24:51,163
+C'est l'édit du défunt empereur.
+
+350
+00:24:51,260 --> 00:24:52,100
+Voulez-vous
+
+351
+00:24:52,300 --> 00:24:53,710
+défier l'édit impérial ?
+
+352
+00:25:06,430 --> 00:25:07,270
+Xianye,
+
+353
+00:25:08,100 --> 00:25:09,060
+si vous aviez un tel édit
+
+354
+00:25:09,780 --> 00:25:12,300
+pour aider le dirigeant légitime
+et frapper les rebelles,
+
+355
+00:25:12,670 --> 00:25:14,630
+pourquoi ne pas le présenter
+à Sa Majesté plus tôt ?
+
+356
+00:25:14,990 --> 00:25:17,150
+C'était votre chance parfaite
+
+357
+00:25:17,150 --> 00:25:17,990
+pour accéder au pouvoir.
+
+358
+00:25:17,990 --> 00:25:18,830
+Mentor,
+
+359
+00:25:19,870 --> 00:25:21,150
+pourquoi tu me fais ça ?
+
+360
+00:25:29,100 --> 00:25:29,990
+Votre Majesté,
+
+361
+00:25:30,540 --> 00:25:31,780
+J'aimerais signaler un problème.
+
+362
+00:25:32,500 --> 00:25:33,740
+S'il vous plaît, punissez-moi.
+
+363
+00:25:36,540 --> 00:25:37,390
+Yao Jianhe m'a ordonné
+
+364
+00:25:38,060 --> 00:25:39,100
+forger
+
+365
+00:25:39,100 --> 00:25:40,390
+cet édit.
+
+366
+00:25:40,670 --> 00:25:41,510
+Fang Xianye !
+
+367
+00:25:43,820 --> 00:25:45,340
+Yao Jianhe était mon professeur honoré.
+
+368
+00:25:45,820 --> 00:25:47,390
+Je ne pouvais pas supporter de le voir souffrir,
+
+369
+00:25:47,670 --> 00:25:49,340
+je n'avais donc pas d'autre choix que d'obéir.
+
+370
+00:25:49,710 --> 00:25:50,820
+Quelle absurdité totale.
+
+371
+00:25:51,020 --> 00:25:51,860
+Fang Xianye !
+
+372
+00:25:51,990 --> 00:25:53,020
+Vous...
+
+373
+00:25:53,630 --> 00:25:55,340
+Vous déteniez l'édit du défunt empereur
+
+374
+00:25:55,446 --> 00:25:56,540
+mais a refusé de le remettre,
+
+375
+00:25:56,670 --> 00:25:59,230
+rejoindre Duan Xu pour défier
+l'édit impérial.
+
+376
+00:25:59,950 --> 00:26:00,790
+Je suis coupable.
+
+377
+00:26:01,390 --> 00:26:03,300
+Je n'aurais pas dû suivre
+
+378
+00:26:03,539 --> 00:26:04,625
+vils courtisans dans la trahison
+
+379
+00:26:04,870 --> 00:26:06,630
+juste à cause du lien mentoral.
+
+380
+00:26:38,580 --> 00:26:40,100
+Depuis le décès du défunt empereur,
+
+381
+00:26:41,430 --> 00:26:43,020
+il a visité mes rêves toutes les nuits,
+
+382
+00:26:43,580 --> 00:26:45,950
+me réprimande farouchement
+pour avoir piégé des fonctionnaires loyaux.
+
+383
+00:26:46,870 --> 00:26:48,060
+J'étais consumé par la peur
+
+384
+00:26:48,230 --> 00:26:49,870
+et résolu de détruire
+le faux édit,
+
+385
+00:26:50,150 --> 00:26:51,820
+pourtant, il a été volé par la faction rebelle.
+
+386
+00:26:56,260 --> 00:26:57,100
+Votre Majesté,
+
+387
+00:26:57,230 --> 00:26:58,670
+Je n'ose pas vous tromper.
+
+388
+00:26:59,300 --> 00:27:00,670
+Je ne peux pas non plus faire face à mon honoré professeur.
+
+389
+00:27:01,100 --> 00:27:01,950
+Votre Majesté,
+
+390
+00:27:02,230 --> 00:27:03,350
+s'il vous plaît purgez les conspirateurs
+
+391
+00:27:03,580 --> 00:27:05,100
+et rétablir l'ordre du tribunal.
+
+392
+00:27:06,100 --> 00:27:06,990
+Espèce d’idiot insolent !
+
+393
+00:27:07,500 --> 00:27:08,740
+Espèce d’idiot insolent !
+
+394
+00:27:09,020 --> 00:27:09,910
+Fang Xianye !
+
+395
+00:27:10,100 --> 00:27:11,820
+Avez-vous perdu la tête ?
+
+396
+00:27:24,500 --> 00:27:26,870
+J'ai commis une haute trahison
+
+397
+00:27:27,870 --> 00:27:29,630
+en essayant de ruiner un sujet fidèle.
+
+398
+00:27:30,910 --> 00:27:32,300
+Mon crime est irréparable.
+
+399
+00:27:36,470 --> 00:27:38,100
+Devant l'esprit du défunt empereur,
+
+400
+00:27:39,540 --> 00:27:41,020
+J'ai trop honte.
+
+401
+00:27:41,950 --> 00:27:43,710
+Il ne me reste que la mort.
+
+402
+00:27:44,670 --> 00:27:45,510
+Fang Ji !
+
+403
+00:27:53,540 --> 00:27:54,470
+Ceci...
+
+404
+00:28:01,020 --> 00:28:01,860
+Xianye !
+
+405
+00:28:07,150 --> 00:28:08,780
+(Si je fais de cet édit un faux,)
+
+406
+00:28:09,740 --> 00:28:10,950
+(Duan Xu pourrait être épargné.)
+
+407
+00:28:15,100 --> 00:28:15,940
+(Si je meurs,)
+
+408
+00:28:16,670 --> 00:28:17,990
+(il n'y aura plus de témoins.)
+
+409
+00:28:20,710 --> 00:28:21,550
+(Duan Shunxi,)
+
+410
+00:28:23,300 --> 00:28:24,780
+(tu me dois toujours quelque chose à la fin.)
+
+411
+00:28:28,910 --> 00:28:30,430
+Faites sortir ce rebelle
+
+412
+00:28:30,780 --> 00:28:32,780
+pour le châtiment ultime.
+
+413
+00:28:32,780 --> 00:28:33,620
+Oui.
+
+414
+00:28:53,230 --> 00:28:54,070
+Mettez-le ici.
+
+415
+00:28:54,950 --> 00:28:55,790
+Prudent.
+
+416
+00:28:56,160 --> 00:28:57,020
+Ce sont
+
+417
+00:28:57,020 --> 00:28:57,990
+Les livres préférés de Xu.
+
+418
+00:28:58,300 --> 00:28:59,340
+N’endommagez aucun d’entre eux.
+
+419
+00:28:59,670 --> 00:29:00,510
+Oui.
+
+420
+00:29:04,110 --> 00:29:04,950
+Jingyuan.
+
+421
+00:29:04,950 --> 00:29:05,790
+Entrez.
+
+422
+00:29:07,580 --> 00:29:08,540
+Continuez à ranger.
+
+423
+00:29:08,540 --> 00:29:09,380
+D'accord.
+
+424
+00:29:14,820 --> 00:29:15,660
+Père,
+
+425
+00:29:15,990 --> 00:29:17,230
+qu'est-ce que tu me voulais ?
+
+426
+00:29:19,580 --> 00:29:20,870
+Qu'est-ce qui vous a tant plu aujourd'hui ?
+
+427
+00:29:22,020 --> 00:29:23,780
+Nandu est stable ces derniers temps.
+
+428
+00:29:23,780 --> 00:29:25,060
+Xu a combattu à la frontière.
+
+429
+00:29:25,500 --> 00:29:27,780
+Il reviendra
+avec d'illustres mérites militaires.
+
+430
+00:29:28,300 --> 00:29:30,190
+Désormais, même son plus grand rival,
+
+431
+00:29:30,540 --> 00:29:31,870
+Fang Xianye est mort.
+
+432
+00:29:32,740 --> 00:29:34,390
+Quelqu'un qui aurait dû mourir il y a longtemps
+
+433
+00:29:34,670 --> 00:29:36,820
+d'une manière ou d'une autre, il s'est accroché à la vie jusqu'à maintenant.
+
+434
+00:29:38,630 --> 00:29:40,500
+Mon souhait est exaucé.
+
+435
+00:29:41,230 --> 00:29:42,710
+Il est désormais temps de régler votre avenir.
+
+436
+00:29:43,470 --> 00:29:44,310
+Viens.
+
+437
+00:29:44,630 --> 00:29:45,470
+Sur cette liste
+
+438
+00:29:46,150 --> 00:29:47,910
+sont des descendants nobles éligibles de Nandu,
+
+439
+00:29:48,670 --> 00:29:49,850
+comme le fils du Grand Maître
+
+440
+00:29:50,300 --> 00:29:52,500
+et le fils du duc de Lu.
+
+441
+00:29:53,230 --> 00:29:54,470
+Même si je suis à la retraite,
+
+442
+00:29:55,060 --> 00:29:57,060
+avec votre Xu à Nandu,
+
+443
+00:29:57,430 --> 00:29:59,300
+le clan Duan
+est toujours d'une stature illustre.
+
+444
+00:30:00,020 --> 00:30:01,260
+Tu es ma fille légitime.
+
+445
+00:30:02,206 --> 00:30:03,500
+Vous devez vous marier dans une grande maison
+
+446
+00:30:03,511 --> 00:30:04,921
+perpétuer l'honneur du clan Duan.
+
+447
+00:30:05,780 --> 00:30:07,340
+Examinez d’abord ces jeunes hommes.
+
+448
+00:30:07,710 --> 00:30:08,550
+Si l'on vous convient,
+
+449
+00:30:08,710 --> 00:30:10,470
+Je vais organiser une demande en mariage.
+
+450
+00:30:21,060 --> 00:30:21,900
+Je ne les aime pas.
+
+451
+00:30:22,630 --> 00:30:23,780
+Vous n'avez même pas encore regardé.
+
+452
+00:30:23,780 --> 00:30:24,870
+Comment peut-on ne pas les aimer ?
+
+453
+00:30:26,190 --> 00:30:27,030
+Je l'ai déjà dit.
+
+454
+00:30:27,950 --> 00:30:28,790
+Je ne les aime pas.
+
+455
+00:30:29,870 --> 00:30:31,060
+Reprenait la vie de Xu
+
+456
+00:30:31,060 --> 00:30:31,900
+pas assez pour toi ?
+
+457
+00:30:32,530 --> 00:30:33,618
+Maintenant, vous voulez reprendre
+
+458
+00:30:33,629 --> 00:30:34,396
+ma vie aussi ?
+
+459
+00:30:38,580 --> 00:30:39,420
+Vous...
+
+460
+00:30:47,780 --> 00:30:49,240
+Soudain, ma petite sœur me manque.
+
+461
+00:30:50,230 --> 00:30:51,323
+Vous lui ressemblez beaucoup.
+
+462
+00:30:55,630 --> 00:30:56,470
+Moi?
+
+463
+00:31:00,740 --> 00:31:04,360
+♪En silence, je te regarde♪
+
+464
+00:31:04,560 --> 00:31:08,290
+♪Ma main pend puis tombe♪
+
+465
+00:31:08,640 --> 00:31:12,200
+♪Laissez passer le non-dit♪
+
+466
+00:31:13,040 --> 00:31:16,450
+♪Pourquoi se torturer ainsi ?♪
+
+467
+00:31:16,730 --> 00:31:20,000
+♪Mon souhait pourrait être♪
+
+468
+00:31:20,220 --> 00:31:23,600
+♪Diffusion comme des ondulations♪
+
+469
+00:31:23,910 --> 00:31:29,990
+♪Avec un coup de vent,
+ils s'effacent comme un rêve♪
+
+470
+00:31:31,760 --> 00:31:35,620
+♪La lumière du jour se transforme en cendres♪
+
+471
+00:31:35,620 --> 00:31:39,580
+(Parfum Yueran)
+
+472
+00:31:39,600 --> 00:31:42,920
+♪Pour le reste de ma vie♪
+
+473
+00:31:43,870 --> 00:31:44,710
+Jingyuan.
+
+474
+00:31:46,470 --> 00:31:47,630
+Puissiez-vous trouver un mari digne,
+
+475
+00:31:49,150 --> 00:31:50,430
+sois béni avec de nombreux enfants,
+
+476
+00:31:53,100 --> 00:31:54,060
+et vivre une vie heureuse.
+
+477
+00:31:54,570 --> 00:31:59,640
+♪Réduire pièce par pièce♪
+
+478
+00:31:59,740 --> 00:32:00,580
+Promets-moi,
+
+479
+00:32:03,260 --> 00:32:04,100
+d'accord?
+
+480
+00:32:06,740 --> 00:32:10,290
+♪Et n'osait plus s'approcher♪
+
+481
+00:32:10,440 --> 00:32:13,230
+♪Laisser tout derrière♪
+
+482
+00:32:13,530 --> 00:32:18,000
+♪La pause soudaine des mots non-dits♪
+
+483
+00:32:18,350 --> 00:32:21,760
+♪ Combien j'ai envie
+pour tenir cette silhouette près de moi ♪
+
+484
+00:32:22,170 --> 00:32:25,680
+♪Après le réveil, nous marchons dos à dos♪
+
+485
+00:32:27,580 --> 00:32:28,420
+Madame,
+
+486
+00:32:29,230 --> 00:32:30,300
+pourquoi tu pleures ?
+
+487
+00:32:31,340 --> 00:32:32,860
+(Parfum Yueran)
+
+488
+00:32:33,730 --> 00:32:37,720
+♪ Combien j'ai envie
+pour tenir cette silhouette près de moi ♪
+
+489
+00:32:37,860 --> 00:32:41,320
+♪Après le réveil, nous marchons dos à dos♪
+
+490
+00:32:41,440 --> 00:32:45,250
+♪Regarder tout ce qui est inachevé♪
+
+491
+00:32:45,430 --> 00:32:50,480
+♪Fade away♪
+
+492
+00:32:57,820 --> 00:32:58,660
+Je l'ai rencontré
+
+493
+00:32:59,710 --> 00:33:01,710
+moins de cinq fois.
+
+494
+00:33:04,300 --> 00:33:05,150
+Pourquoi?
+
+495
+00:33:05,150 --> 00:33:08,360
+♪En fin de compte,
+l'amour est le plus difficile à résister♪
+
+496
+00:33:09,020 --> 00:33:11,540
+Pourquoi me chagrine-t-il si profondément ?
+
+497
+00:33:12,560 --> 00:33:15,290
+♪Seul, je les rassemble♪
+
+498
+00:33:15,480 --> 00:33:19,730
+♪Comme des pétales au soleil printanier♪
+
+499
+00:33:20,270 --> 00:33:23,750
+♪Jusqu'à ce que le passé retombe♪
+
+500
+00:33:25,100 --> 00:33:27,950
+(Parfum Yueran)
+
+501
+00:33:27,950 --> 00:33:36,580
+♪Le vent revient avec mes rêves♪
+
+502
+00:33:36,580 --> 00:33:39,420
+(Liang)
+
+503
+00:34:17,220 --> 00:34:18,060
+De façon inattendue,
+
+504
+00:34:18,540 --> 00:34:19,990
+notre souhait de longue date est proche.
+
+505
+00:34:21,870 --> 00:34:23,540
+Tant d’années se sont écoulées.
+
+506
+00:34:25,020 --> 00:34:26,540
+À l'époque, je t'avais attiré dans cette cause,
+
+507
+00:34:27,470 --> 00:34:28,310
+mais à la fin,
+
+508
+00:34:28,700 --> 00:34:29,580
+Je t'ai demandé à la place,
+
+509
+00:34:30,910 --> 00:34:31,750
+"Dans ce monde",
+
+510
+00:34:32,990 --> 00:34:34,323
+"Est-ce que les choses peuvent vraiment se passer comme nous l'espérions ?"
+
+511
+00:34:39,470 --> 00:34:40,310
+Vous avez dit,
+
+512
+00:34:41,620 --> 00:34:42,580
+"Cela n'a pas d'importance."
+
+513
+00:34:44,100 --> 00:34:45,140
+"Nous devons d'abord essayer."
+
+514
+00:34:46,390 --> 00:34:47,230
+"La nuit la plus profonde"
+
+515
+00:34:47,700 --> 00:34:48,540
+"annonce l'aube."
+
+516
+00:34:50,830 --> 00:34:51,830
+C'est comme si c'était hier.
+
+517
+00:34:54,220 --> 00:34:55,060
+Xianye.
+
+518
+00:34:57,950 --> 00:34:59,020
+J'ai passé ma vie seul.
+
+519
+00:34:59,756 --> 00:35:00,742
+J'ai perdu mes parents jeune.
+
+520
+00:35:01,180 --> 00:35:02,270
+Je n'avais qu'un seul confident
+
+521
+00:35:02,660 --> 00:35:03,999
+et une fille que j'ai aimé pendant des années
+
+522
+00:35:04,390 --> 00:35:05,990
+et ne lui fais jamais savoir.
+
+523
+00:35:11,060 --> 00:35:12,310
+Je quitterai l'aube du futur
+
+524
+00:35:13,270 --> 00:35:14,660
+pour que vous voyiez.
+
+525
+00:35:17,660 --> 00:35:18,500
+Je vais
+
+526
+00:35:19,060 --> 00:35:19,900
+partez en premier.
+
+527
+00:35:35,220 --> 00:35:36,060
+Fang Ji.
+
+528
+00:35:41,020 --> 00:35:41,860
+Fang Ji.
+
+529
+00:35:42,790 --> 00:35:43,630
+Fang Ji !
+
+530
+00:35:55,270 --> 00:35:56,790
+Maréchal, un mot urgent de Nandu.
+
+531
+00:36:00,950 --> 00:36:01,910
+Maréchal,
+
+532
+00:36:01,910 --> 00:36:02,750
+un message de Nandu.
+
+533
+00:36:03,270 --> 00:36:04,536
+Le prince Jin a pris le trône.
+
+534
+00:36:09,750 --> 00:36:10,660
+M. Fang est mort.
+
+535
+00:36:28,860 --> 00:36:32,340
+(Le précurseur a connu sa fin
+dans la nature.)
+
+536
+00:36:35,830 --> 00:36:36,910
+Le chaos éclata à Nandu.
+
+537
+00:36:37,270 --> 00:36:38,580
+Le prince Su et le prince Ji se sont rebellés.
+
+538
+00:36:39,060 --> 00:36:40,580
+Le défunt empereur a appelé à l’aide.
+
+539
+00:36:40,790 --> 00:36:41,700
+Mais le messager du tribunal
+
+540
+00:36:41,700 --> 00:36:42,750
+jamais arrivé ici.
+
+541
+00:36:43,470 --> 00:36:44,700
+Maintenant, Sa Majesté a appris
+
+542
+00:36:45,060 --> 00:36:46,220
+que la faction Pei
+
+543
+00:36:46,430 --> 00:36:47,540
+vous a piégé exprès.
+
+544
+00:36:47,860 --> 00:36:48,820
+(À Shunxi, depuis Xianye)
+
+545
+00:36:48,870 --> 00:36:50,350
+Fang Xianye, vice-ministre du Revenu,
+
+546
+00:36:50,830 --> 00:36:52,390
+a rédigé un faux édit pour vous accuser.
+
+547
+00:36:53,470 --> 00:36:54,500
+Après avoir été exposé,
+
+548
+00:36:55,923 --> 00:36:57,149
+il est mort en heurtant un pilier.
+
+549
+00:37:04,540 --> 00:37:05,380
+(Shunxi,)
+
+550
+00:37:06,910 --> 00:37:07,910
+(Nandu est maintenant en paix.)
+
+551
+00:37:08,540 --> 00:37:09,500
+(Pas besoin de vous inquiéter.)
+
+552
+00:37:11,060 --> 00:37:12,990
+(Je ne vous ai pas vu depuis de nombreuses années.)
+
+553
+00:37:13,910 --> 00:37:14,990
+(Comme une vie est brève.)
+
+554
+00:37:15,317 --> 00:37:16,417
+(Nous sommes séparés depuis si longtemps.)
+
+555
+00:37:17,950 --> 00:37:19,396
+(Nos chemins diffèrent dans le même but.)
+
+556
+00:37:20,430 --> 00:37:21,500
+(Maintenant, ma tâche est terminée.)
+
+557
+00:37:22,270 --> 00:37:23,430
+(La mort me suffit.)
+
+558
+00:37:24,613 --> 00:37:25,626
+(Cela ne concerne personne d'autre.)
+
+559
+00:37:26,290 --> 00:37:27,576
+(La vie est pleine d'incertitudes.)
+
+560
+00:37:29,060 --> 00:37:30,540
+(Quand vous récupérerez la terre,)
+
+561
+00:37:31,700 --> 00:37:33,270
+(s'il vous plaît, versez du vin pour me le dire.)
+
+562
+00:37:41,580 --> 00:37:42,420
+Maréchal.
+
+563
+00:37:44,350 --> 00:37:45,190
+Maréchal!
+
+564
+00:37:46,580 --> 00:37:47,420
+Maréchal.
+
+565
+00:37:49,180 --> 00:37:50,020
+Médecin!
+
+566
+00:37:50,470 --> 00:37:51,830
+(J'ai vécu une vie solitaire.)
+
+567
+00:37:52,870 --> 00:37:53,710
+(Vous êtes)
+
+568
+00:37:54,220 --> 00:37:55,060
+(mon seul parent,)
+
+569
+00:37:55,830 --> 00:37:56,670
+(mon très cher ami,)
+
+570
+00:37:57,700 --> 00:37:59,180
+(et mon vrai confident.)
+
+571
+00:38:00,220 --> 00:38:01,990
+(De : Xianye)
+
+572
+00:38:14,020 --> 00:38:15,220
+Cette fois, je n’en peux plus.
+
+573
+00:38:16,270 --> 00:38:17,790
+J'ai envoyé un message au Grand Ancêtre.
+
+574
+00:38:18,350 --> 00:38:19,220
+J'espère seulement qu'elle pourra
+
+575
+00:38:20,060 --> 00:38:21,430
+rapportez le médicament dès que possible.
+
+576
+00:38:23,620 --> 00:38:24,460
+Grand Ancêtre.
+
+577
+00:39:26,910 --> 00:39:27,910
+Tu as failli mourir.
+
+578
+00:39:31,350 --> 00:39:32,190
+Simu.
+
+579
+00:39:35,100 --> 00:39:35,940
+Simu,
+
+580
+00:39:38,060 --> 00:39:39,020
+Fang Xianye...
+
+581
+00:39:40,500 --> 00:39:41,700
+Fang Xianye s'est suicidé.
+
+582
+00:39:43,580 --> 00:39:44,470
+Emmène-moi vers lui.
+
+583
+00:39:46,060 --> 00:39:47,100
+J'ai besoin de le voir.
+
+584
+00:40:17,060 --> 00:40:17,950
+Duan Shunxi.
+
+585
+00:40:28,950 --> 00:40:30,950
+Quand j'ai été emmené à North Chong,
+
+586
+00:40:35,310 --> 00:40:37,430
+mon père a forcé Fang Xianye à revenir
+
+587
+00:40:40,870 --> 00:40:41,910
+pour me remplacer.
+
+588
+00:40:43,350 --> 00:40:44,350
+Après mon retour,
+
+589
+00:40:47,100 --> 00:40:48,910
+mon père l'a presque fait taire.
+
+590
+00:40:50,790 --> 00:40:52,910
+Il avait toutes les raisons
+détester le clan Duan,
+
+591
+00:40:54,310 --> 00:40:55,270
+mais il n'a jamais
+
+592
+00:40:55,270 --> 00:40:56,110
+m'en a parlé.
+
+593
+00:40:57,180 --> 00:40:58,700
+Si nous n'avions pas partagé la même cause,
+
+594
+00:41:00,830 --> 00:41:02,060
+Fang Xianye et moi
+
+595
+00:41:05,060 --> 00:41:06,620
+auraient dû être des ennemis.
+
+596
+00:41:10,660 --> 00:41:11,830
+J'avais toujours pensé
+
+597
+00:41:14,270 --> 00:41:15,790
+qu'une fois la guerre terminée,
+
+598
+00:41:18,100 --> 00:41:19,270
+Je placerais tout
+
+599
+00:41:19,270 --> 00:41:20,220
+entre ses mains.
+
+600
+00:41:23,430 --> 00:41:24,700
+Pourtant, il est parti avant moi.
+
+601
+00:41:26,660 --> 00:41:27,620
+Maintenant que j'y pense,
+
+602
+00:41:29,470 --> 00:41:30,430
+comment puis-je en être sûr
+
+603
+00:41:30,430 --> 00:41:31,500
+c'est ce que j'avais décidé de faire
+
+604
+00:41:33,660 --> 00:41:35,140
+n'aboutira jamais à rien ?
+
+605
+00:41:39,310 --> 00:41:40,390
+Chair et sang
+
+606
+00:41:43,660 --> 00:41:45,020
+ne peut pas résister aux tournants du destin.
+
+607
+00:41:53,310 --> 00:41:54,180
+Duan Shunxi,
+
+608
+00:41:57,950 --> 00:41:59,700
+votre lumière s'estompera également un jour.
+
+609
+00:42:00,990 --> 00:42:01,990
+Fang Xianye
+
+610
+00:42:01,990 --> 00:42:03,100
+est seulement allé avant toi.
+
+611
+00:42:07,140 --> 00:42:08,430
+Tu n'es qu'un mortel.
+
+612
+00:42:10,870 --> 00:42:11,750
+Regardez-moi.
+
+613
+00:42:13,020 --> 00:42:14,390
+Je n'ai pas appris à accepter de me séparer
+
+614
+00:42:14,390 --> 00:42:15,310
+depuis 400 ans.
+
+615
+00:42:21,470 --> 00:42:23,140
+Fang Xianye est mort sans regret
+
+616
+00:42:24,310 --> 00:42:25,310
+mais une bonne conscience.
+
+617
+00:42:26,620 --> 00:42:27,540
+Il ne vous en voudrait pas.
+
+618
+00:42:29,390 --> 00:42:30,870
+Il serait heureux de vous rencontrer,
+
+619
+00:42:31,910 --> 00:42:33,430
+pour qu'il puisse redevenir lui-même.
+
+620
+00:42:35,350 --> 00:42:36,660
+Souviens-toi juste de lui.
+
+621
+00:42:53,750 --> 00:42:54,590
+(Fang Ji,)
+
+622
+00:42:56,580 --> 00:42:57,889
+(dans votre prochaine vie, ne vous rencontrez pas)
+
+623
+00:42:57,900 --> 00:42:59,140
+(quelqu'un d'aussi ennuyeux que moi.)
+
+624
+00:43:01,020 --> 00:43:01,950
+(Vivez plus légèrement,)
+
+625
+00:43:04,270 --> 00:43:05,350
+(et allez trouver votre propre joie.)
+
+626
+00:43:13,200 --> 00:43:18,530
+♪Entre noir et blanc,
+ondulations croisées♪
+
+627
+00:43:18,860 --> 00:43:23,110
+♪La lumière a rencontré l'ombre♪
+
+628
+00:43:24,470 --> 00:43:29,840
+♪Il a percé les ténèbres et le temps♪
+
+629
+00:43:30,140 --> 00:43:34,740
+♪Le destin incassable♪
+
+630
+00:43:35,830 --> 00:43:37,670
+♪Soudain fissuré♪
+
+631
+00:43:49,880 --> 00:43:55,320
+♪Entre noir et blanc,
+ondulations croisées♪
+
+632
+00:43:55,500 --> 00:43:59,830
+♪La lumière a rencontré l'ombre♪
+
+633
+00:44:01,200 --> 00:44:06,590
+♪Il a percé les ténèbres et le temps♪
+
+634
+00:44:06,820 --> 00:44:10,760
+♪Le destin incassable♪
+
+635
+00:44:12,530 --> 00:44:14,420
+♪Soudain fissuré♪
+
+636
+00:44:17,080 --> 00:44:20,240
+♪Écoutez, tous les sons rugissent♪
+
+637
+00:44:20,240 --> 00:44:22,770
+♪Alors que la glace froide se transforme en marées♪
+
+638
+00:44:22,770 --> 00:44:28,290
+♪La solitude d'un siècle fait fondre les rêves♪
+
+639
+00:44:28,290 --> 00:44:31,530
+♪Suivre les conseils du destin♪
+
+640
+00:44:31,530 --> 00:44:36,390
+♪Par le destin, nos moments ont été échangés♪
+
+641
+00:44:36,730 --> 00:44:39,750
+♪Le cœur se réveille tout d'un coup♪
+
+642
+00:44:39,750 --> 00:44:42,570
+♪Regardez les feux d'artifice tomber comme des étoiles♪
+
+643
+00:44:42,830 --> 00:44:45,360
+♪Ce lien est emmêlé dans un fil♪
+
+644
+00:44:45,360 --> 00:44:50,780
+♪Les reflets du monde se fondent dans la brume♪
+
+645
+00:44:50,950 --> 00:44:54,020
+♪ Emprunter un battement de cœur éphémère ♪
+
+646
+00:44:54,180 --> 00:44:59,080
+♪Tu m'as entraîné dans la poussière mortelle,
+jusqu'à ce que je sois amoureux de ses charmes♪
+
+647
+00:44:59,290 --> 00:45:02,760
+♪Le cœur se réveille tout d'un coup♪
+
