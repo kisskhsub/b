@@ -1,0 +1,3275 @@
+﻿1
+00:00:00,300 --> 00:00:03,800
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+2
+00:00:42,030 --> 00:00:45,030
+...
+
+3
+00:00:47,110 --> 00:00:51,230
+...
+
+4
+00:00:52,000 --> 00:00:53,380
+...
+
+5
+00:00:53,380 --> 00:00:56,020
+...
+
+6
+00:00:56,020 --> 00:00:58,240
+...
+
+7
+00:00:58,990 --> 00:01:02,410
+...
+
+8
+00:01:02,410 --> 00:01:06,200
+...
+
+9
+00:01:08,740 --> 00:01:11,820
+...
+
+10
+00:01:11,820 --> 00:01:17,820
+...
+
+11
+00:01:17,820 --> 00:01:22,400
+...
+
+12
+00:01:22,400 --> 00:01:28,150
+...
+
+13
+00:01:28,150 --> 00:01:31,300
+...
+
+14
+00:01:31,300 --> 00:01:33,060
+...
+
+15
+00:01:33,060 --> 00:01:37,170
+...
+
+16
+00:01:38,170 --> 00:01:41,160
+...
+
+17
+00:01:41,160 --> 00:01:44,950
+...
+
+18
+00:01:44,950 --> 00:01:46,750
+...
+
+19
+00:01:46,750 --> 00:01:51,180
+...
+
+20
+00:01:51,180 --> 00:01:53,130
+...
+
+21
+00:01:55,480 --> 00:01:57,930
+...
+
+22
+00:01:57,930 --> 00:02:00,730
+...
+
+23
+00:02:00,730 --> 00:02:03,050
+...
+
+24
+00:02:04,160 --> 00:02:07,350
+...
+
+25
+00:02:07,350 --> 00:02:08,740
+...
+
+26
+00:02:08,740 --> 00:02:11,720
+...
+
+27
+00:02:18,030 --> 00:02:21,530
+...
+
+28
+00:02:21,530 --> 00:02:25,830
+...
+
+29
+00:02:25,830 --> 00:02:27,700
+...
+
+30
+00:02:32,540 --> 00:02:34,740
+...
+
+31
+00:02:34,740 --> 00:02:39,330
+...
+
+32
+00:02:39,330 --> 00:02:42,250
+...
+
+33
+00:02:42,250 --> 00:02:44,700
+...
+
+34
+00:02:45,990 --> 00:02:48,050
+...
+
+35
+00:02:48,050 --> 00:02:51,120
+...
+
+36
+00:02:57,720 --> 00:03:01,970
+...
+
+37
+00:03:01,970 --> 00:03:06,050
+...
+
+38
+00:03:15,200 --> 00:03:20,900
+...
+
+39
+00:03:23,850 --> 00:03:26,550
+...
+
+40
+00:03:26,550 --> 00:03:28,260
+...
+
+41
+00:03:28,300 --> 00:03:30,700
+...
+
+42
+00:03:30,700 --> 00:03:32,980
+...
+
+43
+00:03:32,980 --> 00:03:34,680
+...
+
+44
+00:03:34,680 --> 00:03:37,220
+...
+
+45
+00:03:37,220 --> 00:03:39,440
+...
+
+46
+00:03:39,440 --> 00:03:42,450
+...
+
+47
+00:03:42,450 --> 00:03:45,480
+...
+
+48
+00:03:45,480 --> 00:03:47,730
+...
+
+49
+00:03:48,590 --> 00:03:51,930
+...
+
+50
+00:03:51,930 --> 00:03:54,250
+...
+
+51
+00:03:54,250 --> 00:03:56,150
+...
+
+52
+00:03:58,860 --> 00:04:01,250
+...
+
+53
+00:04:01,250 --> 00:04:04,990
+...
+
+54
+00:04:04,990 --> 00:04:07,070
+...
+
+55
+00:04:07,100 --> 00:04:11,530
+...
+
+56
+00:04:11,530 --> 00:04:15,150
+...
+
+57
+00:04:15,150 --> 00:04:17,320
+...
+
+58
+00:04:17,320 --> 00:04:19,340
+...
+
+59
+00:04:27,910 --> 00:04:31,470
+...
+
+60
+00:04:31,500 --> 00:04:36,600
+...
+
+61
+00:04:42,460 --> 00:04:44,670
+...
+
+62
+00:04:49,690 --> 00:04:52,320
+...
+
+63
+00:04:52,320 --> 00:04:54,700
+...
+
+64
+00:04:59,840 --> 00:05:03,160
+...
+
+65
+00:05:05,940 --> 00:05:07,870
+...
+
+66
+00:05:07,870 --> 00:05:11,150
+...
+
+67
+00:05:11,150 --> 00:05:14,330
+...
+
+68
+00:05:14,330 --> 00:05:16,560
+...
+
+69
+00:05:19,020 --> 00:05:20,640
+...
+
+70
+00:05:33,250 --> 00:05:35,750
+...
+
+71
+00:05:35,750 --> 00:05:37,380
+...
+
+72
+00:05:37,380 --> 00:05:41,400
+...
+
+73
+00:05:43,880 --> 00:05:47,530
+...
+
+74
+00:05:47,600 --> 00:05:52,100
+...
+
+75
+00:05:55,110 --> 00:05:58,790
+...
+
+76
+00:06:01,320 --> 00:06:03,430
+...
+
+77
+00:06:03,430 --> 00:06:06,030
+...
+
+78
+00:06:06,030 --> 00:06:09,360
+...
+
+79
+00:06:09,360 --> 00:06:11,010
+...
+
+80
+00:06:11,010 --> 00:06:15,710
+...
+
+81
+00:06:15,710 --> 00:06:18,870
+...
+
+82
+00:06:18,870 --> 00:06:20,410
+...
+
+83
+00:06:20,410 --> 00:06:23,370
+...
+
+84
+00:06:23,370 --> 00:06:25,000
+...
+
+85
+00:06:25,000 --> 00:06:27,120
+...
+
+86
+00:06:27,120 --> 00:06:29,950
+...
+
+87
+00:06:29,950 --> 00:06:32,180
+...
+
+88
+00:06:32,180 --> 00:06:34,220
+...
+
+89
+00:06:34,220 --> 00:06:36,570
+...
+
+90
+00:06:36,570 --> 00:06:40,430
+...
+
+91
+00:06:45,810 --> 00:06:48,430
+...
+
+92
+00:06:48,430 --> 00:06:49,960
+...
+
+93
+00:06:50,840 --> 00:06:53,300
+...
+
+94
+00:06:59,970 --> 00:07:02,700
+...
+
+95
+00:07:02,700 --> 00:07:03,930
+...
+
+96
+00:07:04,000 --> 00:07:05,900
+...
+
+97
+00:07:05,900 --> 00:07:07,300
+...
+
+98
+00:07:07,340 --> 00:07:10,160
+...
+
+99
+00:07:10,160 --> 00:07:13,630
+...
+
+100
+00:07:13,630 --> 00:07:16,800
+- Kencan?
+- Fashion, sudah tiga tahun sejak kita mendapat kesempatan ini.
+
+101
+00:07:16,800 --> 00:07:18,950
+Kami membutuhkan bantuan Anda.
+
+102
+00:07:32,510 --> 00:07:34,240
+Hari ini adalah harinya.
+
+103
+00:07:37,360 --> 00:07:39,780
+Hai sekarang! Teman-teman!
+
+104
+00:07:39,780 --> 00:07:42,510
+Semuanya datang, dapatkan salah satu dari ini! Ini kuis harga khusus.
+
+105
+00:07:42,510 --> 00:07:45,480
+Seberapa jauhkah kontak fisik hari ini akan berlangsung?
+
+106
+00:07:45,480 --> 00:07:47,370
+Jika kamu menebak jawabannya dengan benar,
+
+107
+00:07:47,370 --> 00:07:51,390
+akan ada banyak hadiah yang dibagikan setelah tanggal tersebut.
+
+108
+00:07:51,390 --> 00:07:53,360
+- Aku!
+- Saya juga!
+
+109
+00:07:54,190 --> 00:07:56,480
+Hai. Seberapa jauh perjalanannya hari ini?
+
+110
+00:07:56,480 --> 00:07:59,800
+Menurutku nomor tiga. Mereka berdua sudah dewasa.
+
+111
+00:07:59,800 --> 00:08:02,290
+Wah banyak sekali yang berkumpul.
+
+112
+00:08:02,290 --> 00:08:04,670
+Sudah lama sejak kita berkencan, jadi semua orang pasti bersemangat.
+
+113
+00:08:04,700 --> 00:08:07,800
+Kalian, bisakah kalian datang ke sini?
+
+114
+00:08:07,800 --> 00:08:08,970
+Apakah Anda sudah siap?
+
+115
+00:08:08,970 --> 00:08:11,900
+Kalian tidak membeli pakaian apa pun
+
+116
+00:08:11,900 --> 00:08:14,630
+selama aku di penjara. Hah?
+
+117
+00:08:14,630 --> 00:08:18,230
+Aku perlu pakaian untuk dipakai. Apa yang harus saya lakukan?
+
+118
+00:08:18,230 --> 00:08:21,130
+Itu sebabnya kami membutuhkan selera fesyen Anda yang luar biasa.
+
+119
+00:08:21,130 --> 00:08:23,570
+Tepat!
+
+120
+00:08:23,570 --> 00:08:28,110
+Konsep kencan masa kini adalah tampilan natural yang mudah.
+
+121
+00:08:28,110 --> 00:08:29,340
+Apa yang dimaksud dengan tampilan alami tanpa usaha?
+
+122
+00:08:29,340 --> 00:08:32,010
+Apakah kamu tidak tahu?
+
+123
+00:08:32,010 --> 00:08:34,230
+Kami bertemu satu sama lain setiap hari di kantor.
+Berdandan tetapi tidak berdandan.
+
+124
+00:08:34,230 --> 00:08:37,060
+Akan aneh kalau tiba-tiba aku berdandan terlalu banyak.
+Tampilan alami yang mudah
+
+125
+00:08:42,470 --> 00:08:45,890
+Itu sebabnya saya memilih tampilan alami yang mudah.
+
+126
+00:08:45,890 --> 00:08:47,950
+Tampilan tanpa riasan.
+
+127
+00:08:47,950 --> 00:08:51,330
+Tapi ini adalah sentuhan halus yang berbeda.
+
+128
+00:08:54,590 --> 00:08:59,010
+Sepertinya Anda mengenakan sesuatu yang dibuat dengan kasar, tetapi itu disengaja.
+
+129
+00:08:59,010 --> 00:09:02,910
+Ta-da! Itu adalah tampilan alami yang mudah.
+
+130
+00:09:04,650 --> 00:09:06,280
+Apa itu?
+
+131
+00:09:06,280 --> 00:09:07,730
+Itu sama seperti biasanya.
+
+132
+00:09:07,730 --> 00:09:10,720
+Ini bukan tampilan alami tanpa usaha, tapi tanpa usaha.
+
+133
+00:09:10,720 --> 00:09:13,940
+Apa yang kamu bicarakan? Detailnya membuat perbedaan.
+
+134
+00:09:13,940 --> 00:09:16,030
+Bagaimana dengan mengenakan sesuatu seperti gaun?
+
+135
+00:09:16,030 --> 00:09:17,790
+Ini masih kencan pertama.
+
+136
+00:09:17,790 --> 00:09:22,050
+Itu benar. Ada kencan romantis yang dinanti-nantikan pria.
+
+137
+00:09:22,050 --> 00:09:24,320
+Kenapa kalian bertingkah norak sekali?
+
+138
+00:09:24,320 --> 00:09:27,550
+Sejak kapan gaun itu romantis?
+
+139
+00:09:27,550 --> 00:09:30,280
+Apakah ini terlalu sederhana?
+
+140
+00:09:31,770 --> 00:09:33,390
+Saya terlihat seperti seorang petani.
+
+141
+00:09:33,390 --> 00:09:36,300
+Tidak, ini tampilan alami yang mudah!
+
+142
+00:09:37,160 --> 00:09:39,200
+Haruskah saya berubah?
+
+143
+00:09:53,920 --> 00:09:55,870
+Siapa itu?
+
+144
+00:09:56,820 --> 00:09:59,520
+- Halo?
+- Halo?
+
+145
+00:09:59,520 --> 00:10:03,190
+- Siapa ini?
+- Seonbae, ini Wu Gi.
+
+146
+00:10:03,190 --> 00:10:07,280
+Oh, Wu Gi! Ponsel siapa ini? Ini bukan nomor telepon Anda.
+
+147
+00:10:07,280 --> 00:10:10,290
+Oh, saya sedang meminjam telepon seseorang sekarang.
+
+148
+00:10:10,290 --> 00:10:14,300
+- Saya menyadari bahwa saya lupa ponsel saya di rumah.
+- Ah, benarkah?
+
+149
+00:10:14,300 --> 00:10:16,690
+Itu sebabnya aku meneleponmu kalau-kalau kita saling merindukan.
+
+150
+00:10:16,690 --> 00:10:19,200
+Aku sedang berada di festival bunga sekarang
+
+151
+00:10:19,200 --> 00:10:22,510
+Sudah?! Oh tidak! Saya masih di rumah.
+
+152
+00:10:22,510 --> 00:10:25,740
+Tidak usah buru-buru. Aku akan melihat-lihat.
+
+153
+00:10:25,740 --> 00:10:28,420
+Saya berada di depan air mancur sekarang.
+
+154
+00:10:28,420 --> 00:10:30,380
+Tahukah Anda di mana letak air mancur taman?
+
+155
+00:10:30,380 --> 00:10:32,530
+Ya, saya tahu di mana letak air mancur taman.
+
+156
+00:10:32,530 --> 00:10:34,240
+Baiklah, aku akan menunggu di sini.
+
+157
+00:10:34,240 --> 00:10:37,470
+Baiklah, aku akan segera ke sana. Saya bisa sampai di sana dalam 10 menit dengan taksi.
+
+158
+00:10:37,470 --> 00:10:39,090
+Bagus.
+
+159
+00:10:39,910 --> 00:10:42,050
+Oh benar! Tapi...
+
+160
+00:10:42,650 --> 00:10:44,590
+Ya?
+
+161
+00:10:44,590 --> 00:10:48,690
+Tapi bagaimana kamu tahu nomorku?
+
+162
+00:10:48,690 --> 00:10:50,670
+Kamu bilang kamu tidak punya ponselmu.
+
+163
+00:10:53,010 --> 00:10:58,050
+Aku entah bagaimana mengingatnya. Saya pasti sudah menghafalnya secara alami.
+
+164
+00:10:58,050 --> 00:11:01,770
+Saya mencobanya dan mendapatkan nomor yang benar.
+
+165
+00:11:04,240 --> 00:11:09,100
+Ya ampun, ini gila! Dia hapal nomor telepon Yumi!
+
+166
+00:11:09,100 --> 00:11:12,750
+Ini jelas berarti dia menyukainya, bukan?
+
+167
+00:11:17,750 --> 00:11:20,230
+Ini sangat bagus!
+
+168
+00:11:20,230 --> 00:11:24,310
+- Ayo kita berciuman hari ini!
+- Aku akan memilih nomor 4.
+
+169
+00:11:24,310 --> 00:11:29,630
+- Apakah nomor empat... nomor empat adalah ciuman?
+- Kalau begitu, aku ingin melakukan nomor empat juga!
+- Aku suka nomor empat.
+
+170
+00:11:31,150 --> 00:11:34,590
+Saya akan segera ke sana! Mohon tunggu sebentar.
+
+171
+00:11:34,590 --> 00:11:38,390
+Ya, tolong segera datang. Cuaca hari ini sangat bagus!
+
+172
+00:11:38,390 --> 00:11:40,070
+Saya akan menutup telepon sekarang.
+
+173
+00:11:43,510 --> 00:11:45,580
+Terima kasih atas teleponmu.
+
+174
+00:11:55,300 --> 00:11:59,240
+Hari Perayaan Kencan Yumi
+
+175
+00:12:01,550 --> 00:12:03,970
+Cinta ada di sini!
+
+176
+00:12:07,870 --> 00:12:11,950
+Teman-teman! Hari itu akhirnya tiba!
+
+177
+00:12:11,970 --> 00:12:15,610
+Mari kita dukung Yumi agar dia bisa mendapatkan
+
+178
+00:12:15,610 --> 00:12:20,110
+kencan yang menyenangkan, karena ini adalah waktu yang sangat, sangat, sangat lama. Ayo bersorak!
+
+179
+00:12:22,040 --> 00:12:24,880
+- Yumi!
+- Naiki ombak!
+
+180
+00:12:38,530 --> 00:12:42,560
+Ayo pergi Yumi! Wu Gi sedang menunggu!
+
+181
+00:12:51,310 --> 00:12:55,240
+♫ Apakah kamu memperhatikanku? Atau tidak ada artinya? ♫
+
+182
+00:12:55,240 --> 00:12:56,210
+Taksi!
+
+183
+00:12:56,210 --> 00:13:02,120
+♫ Apakah mata kita terus bertemu? Atau apakah kamu hanya melihat sesuatu di belakangku? ♫
+
+184
+00:13:02,120 --> 00:13:06,620
+♫ Ada kesibukan di kepalaku sepanjang hari ♫
+
+185
+00:13:06,620 --> 00:13:12,550
+Taksi!
+♫ Aku akan terus menyembunyikannya agar kamu tidak tahu perasaanku ♫
+
+186
+00:13:15,190 --> 00:13:18,000
+Sopir, silakan pergi ke Taman Eungaram.
+
+187
+00:13:20,060 --> 00:13:22,420
+♫ Apakah hanya aku yang membuatmu baik? ♫
+
+188
+00:13:22,420 --> 00:13:25,260
+♫ Apakah hanya aku yang berpikir begitu? ♫
+
+189
+00:13:26,110 --> 00:13:27,960
+Terima kasih!
+
+190
+00:13:28,780 --> 00:13:33,120
+♫ Aku sangat ingin tahu bagaimana perasaanmu ♫
+
+191
+00:13:36,790 --> 00:13:40,730
+♫ Aku peduli padamu ♫
+
+192
+00:13:46,520 --> 00:13:50,240
+♫ Aku ingin mendengar isi hatimu ♫
+
+193
+00:13:50,240 --> 00:13:52,500
+rubi
+
+194
+00:13:52,500 --> 00:13:55,990
+Oh tidak! Itu Ruby!
+
+195
+00:13:55,990 --> 00:13:58,800
+Kenapa dia meneleponku?
+
+196
+00:13:58,800 --> 00:14:00,820
+Apa itu? Mengapa Ruby menelepon?
+
+197
+00:14:00,820 --> 00:14:03,540
+Bukankah Ruby bilang dia akan pergi ke pesta pernikahan di Busan?
+
+198
+00:14:03,540 --> 00:14:07,340
+- Apakah dia ingin mengatakan sesuatu?
+- Mungkin untuk memeriksa apakah mereka berdua sedang berkencan?
+
+199
+00:14:07,340 --> 00:14:09,920
+Oh, itu pasti! Kalau begitu ayo angkat telepon itu
+
+200
+00:14:09,920 --> 00:14:14,110
+dan katakan padanya bahwa mereka sedang bersenang-senang sehingga Ruby bisa semakin marah.
+
+201
+00:14:14,710 --> 00:14:18,570
+Gadis ini. Apa yang membuat dia penasaran?
+
+202
+00:14:24,180 --> 00:14:25,720
+Tunggu...
+
+203
+00:14:27,090 --> 00:14:29,910
+Ada yang tidak beres.
+
+204
+00:14:29,910 --> 00:14:32,730
+– Menurutku itu bukan panggilan sederhana.
+- Lalu apa itu?
+
+205
+00:14:32,730 --> 00:14:35,890
+- Aku tidak tahu apa itu tapi menurutku itu mengacaukan segalanya.
+
+206
+00:14:35,890 --> 00:14:39,250
+Tidak perlu merusak hari yang baik.
+
+207
+00:14:42,860 --> 00:14:45,630
+Panggilan Tak Terjawab - Ruby
+
+208
+00:14:52,420 --> 00:14:56,310
+Jangan menelepon karena saya tidak akan menjawabnya.
+
+209
+00:15:37,350 --> 00:15:40,970
+Ruby ada di sini! Ruby ada di sini!
+
+210
+00:15:40,970 --> 00:15:42,670
+Teman-teman, tenanglah!
+
+211
+00:15:42,670 --> 00:15:45,120
+Dia gila! Apakah dia benar-benar muncul?
+
+212
+00:15:45,120 --> 00:15:47,420
+Dia bilang dia akan ke Busan! Bukankah dia pergi?
+
+213
+00:15:47,420 --> 00:15:51,450
+Dia mungkin datang dari Busan dengan kereta untuk ikut campur, psikopat itu!
+
+214
+00:15:51,450 --> 00:15:54,960
+Tapi...bukankah yang dikenakan Ruby adalah tampilan kencan aslinya?
+
+215
+00:15:54,960 --> 00:15:59,520
+Tepatnya...Siapa yang menganjurkan gaya ''effortless natural"...?
+
+216
+00:15:59,520 --> 00:16:02,430
+Kami meminta pembebasan bersyarat Fashion tanpa alasan.
+
+217
+00:16:15,940 --> 00:16:18,970
+Yumi! Lari!
+
+218
+00:16:19,920 --> 00:16:21,870
+Lari, Yumi!
+
+219
+00:16:28,790 --> 00:16:30,950
+Lari, Yumi!
+
+220
+00:16:30,950 --> 00:16:35,390
+Lari, Yumi!
+
+221
+00:16:56,300 --> 00:16:59,140
+Lari, Yumi!
+
+222
+00:17:06,760 --> 00:17:08,630
+Lari, Yumi!
+#RunYumi
+
+223
+00:17:13,750 --> 00:17:16,400
+Lari, Yumi!
+
+224
+00:17:16,400 --> 00:17:18,690
+Eonni!
+
+225
+00:17:18,690 --> 00:17:24,020
+Eonni Yumi!
+
+226
+00:17:24,020 --> 00:17:28,150
+Ini buruk! Apa yang harus kita lakukan?
+
+227
+00:17:28,150 --> 00:17:31,690
+Apakah kamu mendengar? Ruby memanggil Yumi. Dia pasti melihat Yumi.
+
+228
+00:17:31,690 --> 00:17:35,750
+Tidak masalah. Bukan itu yang penting!
+
+229
+00:17:35,750 --> 00:17:37,920
+Yang penting adalah momen ini, hari ini.
+
+230
+00:17:37,920 --> 00:17:39,730
+Wu Gi meninggalkan ponselnya di rumah, jadi selama mereka bisa menyingkirkan Ruby, mereka bisa berkencan.
+
+231
+00:17:39,730 --> 00:17:43,630
+- Itu benar.
+- Lari, Yumi!
+
+232
+00:17:53,230 --> 00:17:55,390
+Tetap kuat, Yumi!
+
+233
+00:18:02,560 --> 00:18:04,720
+Cinta adalah tentang kemenangan!
+
+234
+00:18:06,090 --> 00:18:07,760
+Eonni Yumi!
+
+235
+00:18:07,760 --> 00:18:10,960
+aku minta maaf!
+
+236
+00:18:10,960 --> 00:18:12,690
+Eonni!
+
+237
+00:18:19,690 --> 00:18:22,520
+1, 2, 3!
+
+238
+00:18:25,950 --> 00:18:28,860
+Astaga!
+
+239
+00:18:40,460 --> 00:18:43,360
+Tetap kuat, Yumi!
+
+240
+00:18:43,360 --> 00:18:45,460
+Air Mancur Taman 800 meter
+
+241
+00:18:54,360 --> 00:18:57,560
+Kenapa dia begitu cepat?
+
+242
+00:19:12,650 --> 00:19:15,070
+Air Mancur Taman 800 meter
+
+243
+00:19:15,070 --> 00:19:17,160
+Apa itu?
+
+244
+00:19:29,860 --> 00:19:32,930
+Oh! Apa yang terjadi? Apa itu tadi?
+
+245
+00:19:34,360 --> 00:19:37,830
+Hati-hati!
+
+246
+00:19:57,840 --> 00:19:59,650
+Cinta adalah tentang kemenangan.
+
+247
+00:20:00,270 --> 00:20:02,270
+Tetap kuat, Yumi!
+
+248
+00:20:02,270 --> 00:20:03,830
+Wu Gi!
+
+249
+00:20:05,630 --> 00:20:09,400
+Seonbae!
+
+250
+00:20:09,400 --> 00:20:14,350
+saya di sini.
+
+251
+00:20:14,350 --> 00:20:16,760
+Apakah kamu lari ke sini? Mengapa? Anda tidak terlambat.
+
+252
+00:20:17,420 --> 00:20:19,670
+Oh, aku khawatir kamu mungkin menunggu.
+
+253
+00:20:19,670 --> 00:20:22,370
+Tapi aku baik-baik saja.
+
+254
+00:20:22,370 --> 00:20:24,440
+- Haruskah aku membeli minuman?
+- Tidak, sudahlah.
+
+255
+00:20:24,440 --> 00:20:25,730
+- Setidaknya aku akan mengambil air. Jika Anda menunggu–
+- Sudahlah!
+
+256
+00:20:25,730 --> 00:20:28,320
+Tidak apa-apa. Aku baik-baik saja, jadi ayo pergi.
+
+257
+00:20:28,320 --> 00:20:30,410
+Apa?
+
+258
+00:20:30,410 --> 00:20:32,790
+Itu karena aku sangat lapar.
+
+259
+00:20:32,790 --> 00:20:36,160
+Ayo kita pergi dan mencari makan, lalu kita bisa kembali lagi, tidak apa-apa kan?
+
+260
+00:20:36,160 --> 00:20:38,890
+Tentu saja tidak apa-apa. Tapi kenapa makan siang...?
+
+261
+00:20:38,890 --> 00:20:41,660
+- Bagus!
+- Seonbae. Seonbae. Jika kita ingin pergi, lewat sini.
+
+262
+00:20:41,660 --> 00:20:43,080
+Ayo pergi ke pintu keluar belakang. Ada banyak restoran di sana.
+
+263
+00:20:43,080 --> 00:20:50,540
+- Keluar kembali?
+- Ya, ada banyak tempat makan enak di sana.
+
+264
+00:20:53,200 --> 00:21:02,470
+Ah, tunggu—
+
+265
+00:21:03,700 --> 00:21:06,660
+♫ Aku juga tidak akan tahu isi hatiku ♫
+
+266
+00:21:06,660 --> 00:21:11,200
+♫ Ada aku yang aku tidak tahu. ♫
+
+267
+00:21:11,260 --> 00:21:14,720
+♫ Meski aku berjalan perlahan ♫
+
+268
+00:21:14,720 --> 00:21:18,790
+♫ Hatiku berlari jauh disana ♫
+
+269
+00:21:18,790 --> 00:21:20,980
+Tidak ada restoran.
+
+270
+00:21:22,800 --> 00:21:25,100
+Oh...dulu ada di suatu tempat di sini.
+
+271
+00:21:25,100 --> 00:21:26,670
+Saya rasa tidak akan ada.
+
+272
+00:21:26,670 --> 00:21:30,150
+Saya pasti salah.
+
+273
+00:21:30,150 --> 00:21:32,450
+Ayo masuk kembali dan keluar dari depan...
+
+274
+00:21:32,450 --> 00:21:35,210
+- Taksi! Kita bisa naik taksi. Ayo naik taksi!
+- Apa?
+
+275
+00:21:35,210 --> 00:21:37,810
+Taksi! Taksi!
+
+276
+00:21:37,810 --> 00:21:39,180
+- Apakah kita perlu naik taksi?
+- Ya, kami akan sampai di sana secepatnya.
+
+277
+00:21:39,180 --> 00:21:43,170
+Taksi! Taksi! Taksi!
+
+278
+00:21:43,170 --> 00:21:46,750
+Kemana kamu pergi?
+
+279
+00:21:46,750 --> 00:21:51,150
+Oh ya. Tolong antar kami ke Stasiun Baekma, Pak.
+
+280
+00:21:51,150 --> 00:21:53,230
+Stasiun Baekma cukup jauh dari sini, bukan?
+
+281
+00:21:53,240 --> 00:21:58,950
+Karena kita akan makan, ayo pergi ke tempat yang bagus di Ilsan. saya akan membeli.
+
+282
+00:21:58,950 --> 00:22:04,690
+Baiklah. Saya ingin itu.
+
+283
+00:22:05,450 --> 00:22:07,930
+♫ Ada dunia yang aku tidak tahu ♫
+
+284
+00:22:07,930 --> 00:22:10,330
+♫ Bahkan jika aku menghabiskan hari ketika tidak terjadi apa-apa
+
+285
+00:22:21,490 --> 00:22:27,030
+Dia pasti pergi ke sini.
+
+286
+00:22:30,370 --> 00:22:34,410
+Dimana dia?
+
+287
+00:22:34,410 --> 00:22:37,430
+Kim Yumi! Kim Yumi!
+
+288
+00:22:38,490 --> 00:22:41,600
+sunbae. Telepon Anda berdering.
+
+289
+00:22:41,600 --> 00:22:44,290
+Saya tidak perlu mengambilnya. Itu adalah spam.
+
+290
+00:22:49,460 --> 00:22:51,360
+Bagus, Yumi!
+
+291
+00:22:51,360 --> 00:22:56,050
+Teman-teman!
+
+292
+00:23:11,020 --> 00:23:13,750
+Yumi!
+
+293
+00:23:19,950 --> 00:23:23,190
+Wah! Woohoo!
+
+294
+00:23:23,190 --> 00:23:26,010
+Eonni, apakah kamu benar-benar akan menjadi seperti ini?
+
+295
+00:23:44,070 --> 00:23:48,840
+Saya melihat semuanya!
+
+296
+00:23:49,740 --> 00:23:52,130
+Apakah Anda benar-benar tidak akan menjawab telepon Anda?
+
+297
+00:24:20,620 --> 00:24:22,500
+Hapus 2 Pesan
+
+298
+00:24:23,210 --> 00:24:25,160
+Maaf, Ruby.
+
+299
+00:24:25,160 --> 00:24:28,220
+Silakan pesan.
+
+300
+00:24:28,220 --> 00:24:31,570
+Itu terjadi begitu saja.
+
+301
+00:24:31,570 --> 00:24:34,160
+Tapi apakah kamu akan baik-baik saja?
+
+302
+00:24:34,160 --> 00:24:35,380
+Apa?
+
+303
+00:24:35,380 --> 00:24:37,650
+Kami tertunda karena aku.
+
+304
+00:24:37,650 --> 00:24:40,600
+Ah... tidak masalah bagiku.
+
+305
+00:24:40,600 --> 00:24:42,480
+Tidak penting melihat bunganya.
+
+306
+00:24:42,480 --> 00:24:45,980
+Senang bertemu dan ngobrol bersama seperti ini.
+
+307
+00:24:45,980 --> 00:24:49,090
+Maksudku, aku khawatir kamu mungkin sibuk.
+
+308
+00:24:49,090 --> 00:24:50,700
+Saya punya banyak waktu luang hari ini.
+
+309
+00:24:50,700 --> 00:24:56,500
+Kita bisa nongkrong di sini, dan setelah matahari terbenam, kita bisa kembali saat kembang api mulai menyala.
+
+310
+00:24:57,770 --> 00:24:59,360
+Ayo lakukan itu.
+
+311
+00:24:59,360 --> 00:25:02,850
+- Woohoo!
+- Hore!
+
+312
+00:25:02,850 --> 00:25:05,530
+Dia terlihat baik bahkan ketika dia berbicara.
+
+313
+00:25:05,530 --> 00:25:08,950
+Itu sebabnya kamu tidak bisa tidak menyukainya.
+
+314
+00:25:13,430 --> 00:25:16,660
+Tapi... hanya dengan melihat tempat ini, aku tahu makanannya enak.
+
+315
+00:25:16,660 --> 00:25:19,300
+Tempat ini sangat bagus! Saya jamin itu.
+
+316
+00:25:19,300 --> 00:25:22,990
+Saya sudah makan siang, tapi saya mulai lapar lagi.
+
+317
+00:25:23,680 --> 00:25:26,770
+Kamu harus makan. Sayang sekali jika tidak makan di sini.
+
+318
+00:25:30,850 --> 00:25:32,780
+Apa yang harus saya makan?
+
+319
+00:25:38,620 --> 00:25:43,380
+Apakah kamu memiliki tipe yang kamu sukai, Seonbae?
+
+320
+00:25:44,030 --> 00:25:46,070
+Saya suka semua makanan di sini.
+
+321
+00:25:46,070 --> 00:25:49,130
+Maksudku, bukan makanan tapi laki-laki.
+
+322
+00:25:50,190 --> 00:25:51,510
+Apa?
+
+323
+00:25:51,510 --> 00:25:55,630
+Tipe pria seperti apa yang kamu sukai?
+
+324
+00:25:59,680 --> 00:26:02,590
+Saya tidak yakin...Mengapa?
+
+325
+00:26:02,590 --> 00:26:06,360
+Aku hanya... tiba-tiba jadi penasaran.
+
+326
+00:26:06,360 --> 00:26:09,000
+Aku selalu penasaran denganmu, Seonbae.
+
+327
+00:26:11,710 --> 00:26:13,260
+Tentang apa?
+
+328
+00:26:13,260 --> 00:26:18,180
+Hanya... seperti mengenal Anda secara pribadi.
+
+329
+00:26:22,610 --> 00:26:26,790
+Yumi!
+
+330
+00:26:29,200 --> 00:26:32,940
+Apa yang Anda maksud dengan mengenal saya secara pribadi?
+
+331
+00:26:33,800 --> 00:26:35,790
+Misalnya...
+
+332
+00:26:35,790 --> 00:26:37,620
+Misalnya...?
+
+333
+00:26:37,620 --> 00:26:43,000
+Apakah ada pacar rahasia yang tidak diketahui oleh rekan kerja?
+
+334
+00:26:45,350 --> 00:26:48,480
+Apakah ada?
+
+335
+00:26:48,480 --> 00:26:50,090
+- Saya tidak.
+- Benar-benar?
+
+336
+00:26:50,090 --> 00:26:52,180
+Sebenarnya tidak.
+
+337
+00:26:53,240 --> 00:26:55,160
+Itu melegakan.
+
+338
+00:26:59,710 --> 00:27:03,420
+Ya ampun. Saya pikir hati saya akan meledak.
+
+339
+00:27:03,420 --> 00:27:08,120
+Kendalikan dirimu. Saya pikir komentar penting akan dibuat.
+
+340
+00:27:11,800 --> 00:27:15,500
+Lalu...Sunbae...
+
+341
+00:27:17,050 --> 00:27:18,550
+Ya?
+
+342
+00:27:20,440 --> 00:27:22,410
+Apakah kamu..
+
+343
+00:27:32,630 --> 00:27:35,260
+ingin pergi kencan buta?
+
+344
+00:27:45,500 --> 00:27:49,660
+Apa yang baru saja dia katakan? Kencan buta?
+
+345
+00:28:04,970 --> 00:28:08,840
+Cinta. Apa yang telah terjadi?
+
+346
+00:28:08,840 --> 00:28:11,720
+Apa yang terjadi di sini?
+
+347
+00:28:26,110 --> 00:28:32,600
+♫ Saya di sini ♫
+
+348
+00:28:32,600 --> 00:28:38,180
+♫ Saya nyaman ♫
+
+349
+00:28:38,180 --> 00:28:39,730
+Kencan buta?
+
+350
+00:28:39,730 --> 00:28:41,370
+Ya.
+
+351
+00:28:41,370 --> 00:28:47,300
+Ada pria hebat yang saya kenal dan saya ingin memperkenalkan Anda kepadanya.
+
+352
+00:28:47,300 --> 00:28:50,790
+Apakah Anda tertarik?
+
+353
+00:28:53,740 --> 00:28:55,740
+Jadi...
+
+354
+00:28:55,740 --> 00:29:02,680
+kamu ingin mengenalkanku pada pria itu?
+
+355
+00:29:02,680 --> 00:29:07,760
+Ya. Aku pikir kalian berdua akan cocok, jadi aku terus memikirkannya.
+
+356
+00:29:07,760 --> 00:29:10,530
+Sebenarnya dia tinggal di Ilsan.
+
+357
+00:29:10,530 --> 00:29:15,980
+Jadi itu sebabnya saat kita berdua menemui Ilsan saat itu, aku berpikir untuk memperkenalkannya padamu secara alami.
+
+358
+00:29:15,980 --> 00:29:19,350
+Seonbae, kamu tinggal di Ilsan, kan? Saya juga akan ke Ilsan karena saya punya rencana ke sana hari ini.
+
+359
+00:29:19,350 --> 00:29:22,410
+Aku sedang berpikir untuk memberimu tumpangan ke sana jika kamu pulang lebih awal.
+
+360
+00:29:27,800 --> 00:29:34,300
+Hari Kencan Yumi
+
+361
+00:29:34,340 --> 00:29:36,420
+Itu tadi?
+
+362
+00:29:36,420 --> 00:29:39,310
+Dia ingin menjodohkannya pada kencan buta?
+
+363
+00:29:39,310 --> 00:29:43,710
+Saya tidak percaya ini. Mengapa dia membingungkannya?
+
+364
+00:29:46,480 --> 00:29:50,040
+Teman-teman, ayo kita kabur sekarang. Ini adalah hujan lebat.
+
+365
+00:29:53,130 --> 00:29:56,160
+Sayang, cepatlah!
+
+366
+00:30:04,040 --> 00:30:07,410
+Jadi, aku...
+
+367
+00:30:07,410 --> 00:30:12,470
+Tapi karena Ruby menyela hari itu, dia malah menemuinya.
+
+368
+00:30:14,240 --> 00:30:16,130
+Jadi begitu.
+
+369
+00:30:17,020 --> 00:30:21,090
+Dia pria yang sangat hebat! Saya jamin itu.
+
+370
+00:30:23,640 --> 00:30:27,840
+Tapi...kenapa aku?
+
+371
+00:30:27,840 --> 00:30:31,420
+Ada banyak pekerja perempuan di perusahaan kami.
+
+372
+00:30:31,420 --> 00:30:36,360
+- Karena kamu adalah orang yang sangat-sangat hebat.
+- Saya?
+
+373
+00:30:36,360 --> 00:30:39,290
+Seonbae, kamu mempunyai kepribadian yang hebat
+
+374
+00:30:40,420 --> 00:30:42,660
+dan kamu juga cantik.
+
+375
+00:30:45,470 --> 00:30:50,350
+Jika aku sehebat itu, maka kamu bisa berkencan saja denganku.
+
+376
+00:30:50,350 --> 00:30:52,790
+Kalau aku sehebat itu,
+
+377
+00:30:54,420 --> 00:30:57,050
+maka kamu bisa berkencan denganku saja.
+
+378
+00:30:58,960 --> 00:31:00,370
+Apa?
+
+379
+00:31:08,850 --> 00:31:11,040
+Saya hanya bercanda.
+
+380
+00:31:21,530 --> 00:31:25,270
+Tapi... bagaimana denganmu?
+
+381
+00:31:25,270 --> 00:31:29,690
+Apakah kamu hanya menjodohkan padahal kamu juga tidak punya pacar?
+
+382
+00:31:34,260 --> 00:31:36,050
+Atau bukan begitu?
+
+383
+00:31:37,170 --> 00:31:41,730
+Ah..apakah kamu punya pacar?
+
+384
+00:31:41,730 --> 00:31:43,620
+Tidak, saya tidak melakukannya.
+
+385
+00:31:45,440 --> 00:31:49,640
+- Tapi kamu punya seseorang yang kamu suka, kan?
+- Ya.
+
+386
+00:31:52,980 --> 00:31:54,840
+Saya bersedia.
+
+387
+00:31:59,010 --> 00:32:01,050
+Teman-teman, kabur!
+
+388
+00:32:06,530 --> 00:32:08,550
+Ini adalah banjir besar.
+
+389
+00:32:18,630 --> 00:32:20,700
+Ah, benarkah?
+
+390
+00:32:21,780 --> 00:32:24,090
+Itu mengejutkan.
+
+391
+00:32:25,510 --> 00:32:29,260
+Jangan bilang, orang itu bekerja dengan kita?
+
+392
+00:32:34,840 --> 00:32:37,320
+Saya kira dia benar-benar bekerja dengan kami.
+
+393
+00:32:39,190 --> 00:32:43,410
+Jangan bilang... Apakah itu Ruby?
+
+394
+00:32:44,010 --> 00:32:46,660
+- Tidak, tidak.
+- Bukan?
+
+395
+00:32:48,300 --> 00:32:50,480
+Lalu siapa itu...
+
+396
+00:32:52,470 --> 00:32:55,200
+Oh...aku penasaran.
+
+397
+00:32:58,050 --> 00:33:00,120
+Orang tersebut bukan seorang wanita.
+
+398
+00:33:13,330 --> 00:33:17,070
+Cepat kabur sebelum kamu hanyut!
+
+399
+00:33:21,080 --> 00:33:23,030
+Bagaimana denganmu?
+
+400
+00:33:23,030 --> 00:33:28,970
+Jika aku menyerah sekarang, Yumi mungkin akan mulai menangis.
+
+401
+00:33:28,970 --> 00:33:33,530
+Aku akan tetap di belakang dan melindungi harga diri Yumi.
+
+402
+00:33:33,530 --> 00:33:36,140
+- Kalau begitu aku juga tidak bisa pergi.
+- Aku akan tinggal juga.
+
+403
+00:33:36,140 --> 00:33:38,210
+Yumi! Tetap kuat!
+
+404
+00:33:38,210 --> 00:33:41,700
+Kamu tidak boleh menangis!
+
+405
+00:33:44,960 --> 00:33:46,910
+Jadi begitu.
+
+406
+00:33:49,990 --> 00:33:51,990
+Jadi begitu.
+
+407
+00:33:54,770 --> 00:33:59,590
+- Itu rahasia, Seonbae.
+- Tentu saja! Jangan khawatir!
+
+408
+00:34:02,180 --> 00:34:06,520
+Tapi...apa tidak apa-apa kalau kamu memberitahuku hal-hal ini?
+
+409
+00:34:06,520 --> 00:34:11,440
+Aku hanya... berpikir kamu akan bisa menjaga rahasiaku.
+
+410
+00:34:11,440 --> 00:34:15,770
+Aku merasa bisa mempercayaimu, Seonbae.
+
+411
+00:34:15,770 --> 00:34:21,180
+Benar-benar? Terima kasih telah mempercayai saya.
+
+412
+00:34:21,180 --> 00:34:24,070
+♫ Di film favoritku ♫
+
+413
+00:34:24,070 --> 00:34:26,890
+- Lalu... tentang kencan buta?
+- Aku akan melakukannya.
+
+414
+00:34:26,890 --> 00:34:29,550
+- Kamu ingin melakukannya?
+- Ya. aku akan melakukannya.
+
+415
+00:34:29,550 --> 00:34:33,320
+Itu bagus. Menurutku kalian berdua akan cocok.
+
+416
+00:34:33,320 --> 00:34:36,400
+Kalau begitu, bisakah kamu memberikan ponselmu padaku?
+
+417
+00:34:42,130 --> 00:34:43,600
+Mengapa?
+
+418
+00:34:43,600 --> 00:34:48,800
+Karena kita sedang membahas topik ini, saya akan bertanya kepadanya, dan saya akan menyimpan nomornya di sini.
+
+419
+00:34:51,260 --> 00:34:52,830
+Namanya Gu Wung.
+
+420
+00:34:52,830 --> 00:34:54,020
+Gu Wung
+
+421
+00:34:55,830 --> 00:34:59,330
+Apakah Anda juga menghafal nomor teleponnya?
+
+422
+00:34:59,330 --> 00:35:05,920
+Saya secara alami pandai menghafal angka. Meski aku tidak mencobanya, aku bisa menghafalnya dengan baik.
+
+423
+00:35:07,120 --> 00:35:09,360
+Apakah begitu?
+
+424
+00:35:11,300 --> 00:35:17,390
+Jadi begitu. Itu karena kamu bisa menghafal angka dengan baik.
+
+425
+00:35:39,240 --> 00:35:43,040
+Seonbae. Anda mendapat telepon dari Ruby.
+
+426
+00:35:43,040 --> 00:35:46,700
+Bisakah kamu mengambilkannya untukku?
+
+427
+00:35:46,700 --> 00:35:49,610
+- Kemana kamu pergi?
+- Aku harus pergi ke kamar mandi.
+
+428
+00:35:49,610 --> 00:35:55,420
+♫ Aku kehabisan nafas meski sedikit terkekang. ♫
+
+429
+00:35:55,420 --> 00:35:57,690
+♫ Aku ingin kita terkunci dalam ekstasi.♫
+
+430
+00:35:57,690 --> 00:36:00,940
+Halo? Oh, Rubi.
+
+431
+00:36:01,690 --> 00:36:05,550
+Aku meninggalkan ponselku di rumah.
+
+432
+00:36:05,550 --> 00:36:08,220
+Anda berada di festival bunga?
+
+433
+00:36:08,220 --> 00:36:09,790
+Kamu ada di mana sekarang?
+
+434
+00:36:09,790 --> 00:36:14,580
+♫ ♫
+
+435
+00:36:14,580 --> 00:36:16,420
+♫ Malam tiba♫
+
+436
+00:36:16,420 --> 00:36:20,190
+♫ di penghujung terbenamnya matahari ♫
+
+437
+00:36:20,190 --> 00:36:22,100
+Jangan menahannya ♫ di dalam diriku ♫
+
+438
+00:36:22,100 --> 00:36:25,810
+♫ Aku merasakanmu semakin kuat♫
+
+439
+00:36:25,810 --> 00:36:27,850
+♫ Cologne manis ♫
+
+440
+00:36:27,850 --> 00:36:30,680
+♫ Sejujurnya♫
+
+441
+00:36:30,680 --> 00:36:33,400
+♫ Kamu dan aku♫
+
+442
+00:36:33,400 --> 00:36:37,420
+♫ berjalan mengikuti irama yang sama ♫
+
+443
+00:36:37,420 --> 00:36:38,850
+♫ Malam tiba ♫
+
+444
+00:36:38,850 --> 00:36:41,930
+Kepekaan! Kepekaan!
+
+445
+00:36:41,930 --> 00:36:47,600
+Cinta! Kelaparan! Mohon ditanggapi!
+
+446
+00:36:51,350 --> 00:36:54,440
+Apakah memang tidak ada siapa-siapa?
+
+447
+00:36:55,530 --> 00:36:58,040
+Teman-teman!!
+
+448
+00:37:01,800 --> 00:37:03,910
+Teman-teman!!
+
+449
+00:37:03,910 --> 00:37:05,720
+Halo, Kim Yumi. Saya mendapat informasi kontak Anda dari Wu Gi dan saya meninggalkan pesan untuk Anda. Saya Gu Wung.
+
+450
+00:37:05,720 --> 00:37:09,980
+episode 5
+Kencan Buta
+
+451
+00:37:17,780 --> 00:37:21,050
+Waktunya Bow-Wow
+Studio SLW
+
+452
+00:37:30,530 --> 00:37:35,040
+Chae Wu Gi
+
+453
+00:37:51,140 --> 00:37:56,160
+Halo? Ya, Wu Gi. Ini Sae Yi.
+
+454
+00:37:56,160 --> 00:37:59,930
+Gu Wung baru saja keluar sebentar. Aku akan menelponnya saat dia kembali.
+
+455
+00:37:59,930 --> 00:38:02,480
+Oh, dia di sini. Tunggu sebentar.
+
+456
+00:38:03,950 --> 00:38:05,560
+Dapatkan teleponnya.
+
+457
+00:38:05,560 --> 00:38:08,110
+- Aku?
+- Itu Wu Gi.
+
+458
+00:38:08,110 --> 00:38:10,690
+- Aku bisa melihat semua panggilan tidak terjawab.
+- Jadi?
+
+459
+00:38:10,690 --> 00:38:16,140
+- Jadi kamu tidak perlu menjawab.
+- Aku menjawabnya karena keras. Jika tidak, Anda harus mengaktifkan mode senyap.
+
+460
+00:38:18,370 --> 00:38:23,880
+Halo? Ya, saya pergi untuk membeli kopi.
+
+461
+00:38:26,370 --> 00:38:28,790
+saya sedang sibuk. Cepat beritahu aku.
+
+462
+00:38:30,470 --> 00:38:32,380
+Kencan buta?
+
+463
+00:38:32,380 --> 00:38:37,580
+Dengan seonbae yang kamu sebutkan sebelumnya? Apakah itu Yumi?
+
+464
+00:38:37,580 --> 00:38:42,980
+Akhir pekan ini? Saya tidak mempunyai banyak hal yang terjadi. Ya.
+
+465
+00:38:44,380 --> 00:38:46,740
+Baiklah.
+
+466
+00:38:46,740 --> 00:38:48,460
+Hei, apakah kamu akan kencan buta?
+
+467
+00:38:48,460 --> 00:38:51,090
+Aku bahkan tidak memintanya tapi dia tetap bersikeras.
+
+468
+00:38:51,090 --> 00:38:55,960
+- Aku cemburu. Mengapa tidak ada yang merekomendasikan saya?
+- Mengapa hal itu bisa terjadi?
+
+469
+00:38:55,980 --> 00:38:57,810
+Mengapa saya tidak mendapat tawaran apa pun?
+
+470
+00:38:59,740 --> 00:39:02,430
+Pikirkan baik-baik mengapa tidak ada yang bertanya kepada Anda.
+
+471
+00:39:03,820 --> 00:39:06,300
+Jadi, apakah kamu akan kencan buta?
+
+472
+00:39:06,300 --> 00:39:07,970
+Saya tidak punya alasan untuk tidak melakukannya.
+
+473
+00:39:07,970 --> 00:39:11,920
+- Apakah itu seonbae di perusahaan Wu Gi?
+- Ya.
+
+474
+00:39:11,920 --> 00:39:15,360
+Dia terus berkata bahwa kami akan rukun.
+
+475
+00:39:15,360 --> 00:39:17,780
+- Bukankah dia bilang umurmu sama?
+- Ya.
+
+476
+00:39:17,780 --> 00:39:22,010
+Tapi tahukah Anda bahwa wanita seusia Anda berpikir untuk menikah?
+
+477
+00:39:22,010 --> 00:39:24,170
+- Benar-benar?
+- Tahukah kamu?
+
+478
+00:39:24,170 --> 00:39:25,890
+Mereka semua seperti itu.
+
+479
+00:39:29,110 --> 00:39:30,350
+Tapi ini hanya kencan buta.
+
+480
+00:39:30,350 --> 00:39:33,060
+Anda benar-benar tidak mengenal wanita.
+
+481
+00:39:33,060 --> 00:39:38,810
+Jangan menganggapnya serius, anggap saja Anda akan minum teh dan pergi.
+
+482
+00:39:39,630 --> 00:39:44,990
+Saya tidak mau. Saya ingin minum teh, makanan, dan bahkan minum alkohol.
+
+483
+00:39:44,990 --> 00:39:46,330
+Saya hanya akan melakukan apa pun yang saya inginkan.
+
+484
+00:39:46,330 --> 00:39:49,730
+Apa? Aku mengatakan ini karena aku mengkhawatirkanmu.
+
+485
+00:39:50,700 --> 00:39:54,200
+Apa yang sedang kalian lakukan? Bertengkar dengan pasangan?
+
+486
+00:40:05,800 --> 00:40:07,870
+Asisten Manajer Kim Yumi
+Berikut informasi kontak Yumi. Anda harus menghubunginya terlebih dahulu.
+
+487
+00:40:25,540 --> 00:40:26,620
+Asisten Manajer Kim Yumi
+Berikut informasi kontak Yumi. Anda harus menghubunginya terlebih dahulu.
+
+488
+00:40:26,620 --> 00:40:28,920
+Simpan nomor kontak baru
+
+489
+00:40:39,350 --> 00:40:41,540
+Halo
+
+490
+00:40:56,000 --> 00:40:57,920
+Halo Kim Yumi.
+
+491
+00:40:57,920 --> 00:41:00,870
+Saya mendapat informasi kontak Anda dari Wu Gi dan saya meninggalkan pesan untuk Anda.
+
+492
+00:41:00,870 --> 00:41:03,620
+Saya Gu Wung.
+
+493
+00:41:11,910 --> 00:41:14,110
+Hei, 'Ayo gigit kukuku'
+
+494
+00:41:14,110 --> 00:41:16,160
+dan sel 'Haruskah aku memotong poniku atau tidak' keduanya hilang.
+
+495
+00:41:16,160 --> 00:41:20,240
+- Kami juga tidak dapat menemukan saudara perempuan yang 'Sensitif' atau saudara laki-laki yang 'santai'.
+- Kesehatan...
+
+496
+00:41:20,240 --> 00:41:23,930
+Apakah Anda benar-benar akan menyebutkan semua sel yang hilang?
+
+497
+00:41:23,930 --> 00:41:26,420
+Ah, baiklah. Untuk meringkas.
+
+498
+00:41:26,420 --> 00:41:28,220
+Termasuk Cinta dan Perasaan Batin,
+
+499
+00:41:28,220 --> 00:41:30,640
+total 389.216 sel
+
+500
+00:41:30,640 --> 00:41:32,770
+telah hilang karena banjir air mata.
+
+501
+00:41:32,770 --> 00:41:36,430
+Banjir rekor seperti ini merupakan yang pertama sejak tiga tahun lalu.
+
+502
+00:41:49,720 --> 00:41:52,010
+Sayang, kamu baik-baik saja?
+
+503
+00:41:52,010 --> 00:41:54,960
+Aku baik-baik saja, Perasaan Batin.
+
+504
+00:41:54,960 --> 00:41:57,720
+Bagaimana kita keluar dari sini sekarang?
+
+505
+00:41:57,720 --> 00:41:59,460
+Saya juga tidak tahu.
+
+506
+00:41:59,460 --> 00:42:01,480
+Apakah kita akan tetap di sini saja?
+
+507
+00:42:01,480 --> 00:42:04,390
+Mungkin lebih baik tinggal di sini.
+
+508
+00:42:04,390 --> 00:42:05,950
+Apa maksudmu?
+
+509
+00:42:05,950 --> 00:42:10,880
+Menurutku kita tidak begitu membantu dalam kehidupan Yumi.
+
+510
+00:42:12,010 --> 00:42:15,410
+Saat aku bangun dan saat kamu keluar dari hatinya,
+
+511
+00:42:15,410 --> 00:42:17,740
+Saya pikir Yumi menjadi lebih tidak bahagia.
+
+512
+00:42:17,740 --> 00:42:19,970
+- Bukankah begitu?
+- Ya.
+
+513
+00:42:22,630 --> 00:42:25,160
+Mungkin lebih baik untuk Yumi
+
+514
+00:42:25,160 --> 00:42:27,870
+untuk hidup tanpa cinta atau ketulusan.
+
+515
+00:42:39,600 --> 00:42:41,680
+Ya itu benar.
+
+516
+00:42:41,680 --> 00:42:46,100
+Sisa file dapat dikirim melalui email.
+
+517
+00:42:46,100 --> 00:42:48,120
+Ya terima kasih.
+
+518
+00:42:48,120 --> 00:42:49,710
+Selamat tinggal.
+
+519
+00:42:49,710 --> 00:42:52,240
+Mereka sangat pemilih.
+
+520
+00:42:52,240 --> 00:42:53,370
+Apakah mereka mengatakan untuk memeriksanya lagi?
+
+521
+00:42:53,370 --> 00:42:57,050
+Tidak, semuanya sudah selesai. Pekerjaan selesai dengan baik.
+
+522
+00:42:57,050 --> 00:42:58,710
+Kerja bagus.
+
+523
+00:42:58,710 --> 00:43:00,390
+Asisten Manajer Kim, Anda melakukannya dengan baik juga.
+
+524
+00:43:00,390 --> 00:43:02,290
+Pekerjaan selesai dengan baik.
+
+525
+00:43:02,290 --> 00:43:05,260
+Kalian berdua bekerja keras, bahkan datang pada hari Minggu.
+
+526
+00:43:05,260 --> 00:43:08,250
+Aku akan membelikanmu sesuatu yang sangat enak untuk makan siang. Ayo keluar.
+
+527
+00:43:08,250 --> 00:43:09,800
+Benar-benar?
+
+528
+00:43:09,800 --> 00:43:11,210
+Apa yang akan kamu beli?
+
+529
+00:43:11,210 --> 00:43:15,700
+Pilih apa pun yang Anda berdua ingin makan. Suasana hatiku sedang bagus!
+
+530
+00:43:17,640 --> 00:43:19,760
+Hai Yumi. Apa yang harus kita makan?
+
+531
+00:43:19,760 --> 00:43:22,010
+- Apa pun.
+- Ayo suruh dia membelikan kita sesuatu yang mahal.
+
+532
+00:43:22,010 --> 00:43:23,450
+Haruskah kita pergi ke New Yorker?
+
+533
+00:43:23,450 --> 00:43:25,270
+Bagaimana dengan steak dan anggur?
+
+534
+00:43:25,270 --> 00:43:27,260
+Baiklah.
+
+535
+00:43:27,260 --> 00:43:28,990
+Apakah kamu merasa tidak enak badan?
+
+536
+00:43:29,460 --> 00:43:30,600
+Saya baik-baik saja.
+
+537
+00:43:30,600 --> 00:43:34,580
+Kamu tampaknya tidak begitu baik. Kenapa kamu terlihat down?
+
+538
+00:43:34,580 --> 00:43:35,790
+Bukan seperti itu.
+
+539
+00:43:35,790 --> 00:43:37,760
+Apakah Anda memutuskan apa yang akan dimakan?
+
+540
+00:43:37,760 --> 00:43:41,890
+Manajer, karena cuacanya sangat bagus, bisakah kita berkendara dan makan di pinggiran kota...
+
+541
+00:43:41,890 --> 00:43:43,130
+Kita mungkin tidak bisa, bukan?
+
+542
+00:43:43,130 --> 00:43:45,270
+Mengapa tidak? Boleh juga.
+
+543
+00:43:45,270 --> 00:43:47,380
+Benar-benar? Kalau begitu bisakah kita pergi ke Yangpyeong—
+
+544
+00:43:47,380 --> 00:43:52,080
+Maaf, tapi saya punya rencana lain jadi saya tidak bisa keluar terlalu jauh.
+
+545
+00:43:52,080 --> 00:43:55,320
+Apa rencanamu untuk akhir pekan? Anda bebas.
+
+546
+00:43:55,320 --> 00:43:57,190
+Saya benar-benar punya rencana.
+
+547
+00:43:57,190 --> 00:44:01,190
+Asisten Manajer Kim, kamu tidak marah padaku karena aku menyuruhmu datang pada hari Minggu, kan?
+
+548
+00:44:01,190 --> 00:44:03,350
+Tidak, bukan itu.
+
+549
+00:44:03,350 --> 00:44:05,550
+Tapi kenapa aku merasa kamu gila?
+
+550
+00:44:05,550 --> 00:44:08,270
+Anda tidak akan membuat rencana hari ini yang bahkan tidak Anda miliki, bukan?
+
+551
+00:44:08,270 --> 00:44:10,110
+Itu benar.
+
+552
+00:44:10,110 --> 00:44:12,700
+Anda punya rencana di akhir pekan.
+
+553
+00:44:12,700 --> 00:44:14,990
+Tuas pengatur ekspresi wajah?
+
+554
+00:44:14,990 --> 00:44:17,680
+benar-benar rusak.
+- Tidak bisakah kamu memperbaikinya?
+
+555
+00:44:17,680 --> 00:44:19,820
+Ini adalah produk yang sudah tidak diproduksi lagi, jadi tidak bisa diperbaiki.
+
+556
+00:44:19,820 --> 00:44:22,930
+Tidak, itu tidak mungkin. Karena kita tidak bisa mengontrol ekspresi wajahnya,
+
+557
+00:44:22,930 --> 00:44:24,790
+semua orang berjalan di atas kulit telur di sekelilingnya.
+
+558
+00:44:24,790 --> 00:44:28,100
+Tidak ada yang bisa kita lakukan mengenai hal itu. Bagaimana seseorang bisa selalu berada dalam suasana hati yang baik?
+
+559
+00:44:28,100 --> 00:44:31,470
+Tapi hari ini adalah kencan butanya. Bagaimana dia bisa seperti itu bahkan pada kencan butanya?
+
+560
+00:44:31,470 --> 00:44:33,420
+Tidak bisakah dia membatalkannya saja?
+
+561
+00:44:33,420 --> 00:44:35,380
+Kalau dia setuju dan tiba-tiba membatalkan,
+
+562
+00:44:35,380 --> 00:44:37,690
+apa yang akan dipikirkan Wu Gi?
+
+563
+00:44:37,690 --> 00:44:40,700
+Why did she say she will go to the blind date? Terutama hari ini!
+
+564
+00:44:40,700 --> 00:44:43,320
+Apa yang terburu-buru?
+
+565
+00:44:43,320 --> 00:44:46,470
+Sensitivitasnya, sudah diatur.
+
+566
+00:44:46,470 --> 00:44:49,260
+Aku sungguh tidak ingin pergi!
+
+567
+00:44:50,270 --> 00:44:52,550
+Lalu, apakah Anda ingin mencoba menggunakan ini?
+
+568
+00:44:52,550 --> 00:44:55,760
+- Apa itu?
+- Namanya Reaksi Versi 1.
+
+569
+00:44:55,760 --> 00:44:57,770
+Itu adalah boneka yang secara otomatis memberikan reaksi.
+
+570
+00:44:57,770 --> 00:45:00,160
+Reaksi otomatis?
+
+571
+00:45:00,160 --> 00:45:04,100
+Ya. Cara menggunakannya juga sangat mudah. Cukup tekan tombol ini.
+
+572
+00:45:04,100 --> 00:45:07,120
+Mustahil! Itu sangat lucu!
+
+573
+00:45:07,810 --> 00:45:09,910
+Oh perutku! Hahaha
+
+574
+00:45:10,630 --> 00:45:13,480
+Ini memberikan reaksi yang sesuai dengan situasi.
+
+575
+00:45:13,480 --> 00:45:15,660
+Wow! Itu bagus!
+
+576
+00:45:15,660 --> 00:45:18,720
+Beri aku itu.
+
+577
+00:45:18,720 --> 00:45:21,540
+Asisten Manajer Kim, jika kamu tidak mau pergi, kita bisa pergi ke suatu tempat yang dekat saja–
+
+578
+00:45:21,600 --> 00:45:24,900
+Saya benar-benar punya rencana! Saya setuju untuk pergi kencan buta!
+
+579
+00:45:24,900 --> 00:45:26,390
+- Apa?
+- Benar-benar?
+
+580
+00:45:26,390 --> 00:45:29,610
+Aku tidak akan memberitahumu. Sialan.
+
+581
+00:45:29,610 --> 00:45:31,080
+Anda akan kencan buta hari ini?
+
+582
+00:45:31,080 --> 00:45:34,960
+Ya, jadi aku harus cepat pulang untuk mandi dan berpenampilan baik.
+
+583
+00:45:34,960 --> 00:45:36,060
+Harap mengerti!
+
+584
+00:45:36,060 --> 00:45:39,970
+Tentu saja. Kalau begitu cepat pulang agar kamu bisa bersiap-siap!
+
+585
+00:45:39,970 --> 00:45:43,930
+Hei, ada apa? Kamu akan kencan buta?
+
+586
+00:45:44,860 --> 00:45:47,050
+Saya iri, Asisten Manajer Kim.
+
+587
+00:45:50,050 --> 00:45:52,020
+Jangan berlebihan.
+
+588
+00:45:52,020 --> 00:45:55,060
+Nikmati kencan butamu dan ceritakan semuanya padaku.
+
+589
+00:45:55,060 --> 00:45:56,380
+- Asisten Manajer Kim.
+- Ya?
+
+590
+00:45:56,380 --> 00:45:58,560
+- Berkelahi!
+- Berkelahi!
+
+591
+00:45:58,560 --> 00:46:00,380
+Terima kasih!
+
+592
+00:46:00,380 --> 00:46:04,240
+Ini adalah reaksi otomatis sehingga tidak terlalu tersetel.
+
+593
+00:46:04,910 --> 00:46:08,580
+Efek sampingnya adalah bereaksi berlebihan dan melakukan suatu tindakan.
+
+594
+00:46:09,480 --> 00:46:12,990
+Tapi ini sudah cukup. Itu lebih baik daripada bersedih.
+
+595
+00:46:12,990 --> 00:46:14,940
+Baiklah, ayo kita lakukan ini.
+
+596
+00:46:14,940 --> 00:46:17,950
+Tidak akan terlihat jelas bahwa dia melakukan suatu tindakan dari satu kencan buta.
+
+597
+00:46:17,950 --> 00:46:21,820
+Saya akan melakukannya dengan baik dan berjanji untuk menceritakan semuanya kepada Anda, Kepala Seksi.
+
+598
+00:46:22,510 --> 00:46:26,120
+Saya akan melakukannya dengan baik dan berjanji untuk menceritakan semuanya kepada Anda, Kepala Seksi.
+
+599
+00:46:30,490 --> 00:46:33,030
+Apakah dia baik-baik saja?
+
+600
+00:46:33,030 --> 00:46:35,160
+Saya tidak yakin.
+
+601
+00:46:39,800 --> 00:46:41,900
+Saya akan kembali.
+
+602
+00:46:41,900 --> 00:46:44,020
+- Kemana kamu pergi?
+- Aku akan kembali.
+
+603
+00:46:44,020 --> 00:46:47,190
+- Kemana kamu pergi?
+- Pada kencan buta.
+
+604
+00:46:47,190 --> 00:46:48,870
+Tunggu.
+
+605
+00:46:48,870 --> 00:46:50,840
+Anda akan seperti itu?
+
+606
+00:46:50,840 --> 00:46:51,810
+Mengapa?
+
+607
+00:46:51,810 --> 00:46:54,710
+Bagaimana kamu bisa pergi kencan buta dengan memakai itu?
+
+608
+00:46:54,710 --> 00:46:56,900
+- Apa aku terlihat buruk?
+- Tentu saja itu buruk.
+
+609
+00:46:56,900 --> 00:46:58,710
+Tidakkah kamu memikirkan bagaimana penampilan Wu Gi?
+
+610
+00:46:58,710 --> 00:47:00,850
+Saya berusaha keras untuk penampilan saya.
+
+611
+00:47:01,740 --> 00:47:04,880
+Jika ini yang Anda sebut upaya, maka itu masalah yang lebih besar.
+
+612
+00:47:05,720 --> 00:47:08,490
+Hei Louis! Hai teman!
+
+613
+00:47:08,490 --> 00:47:10,410
+Apakah aku terlihat buruk?
+
+614
+00:47:10,410 --> 00:47:13,820
+Kamu selalu terlihat buruk. Kapan kamu tidak?
+
+615
+00:47:13,820 --> 00:47:16,450
+Setidaknya dia harus memiliki rasa hormat.
+
+616
+00:47:16,450 --> 00:47:17,920
+Menurutku kencan buta itu tidak akan berjalan dengan baik.
+
+617
+00:47:17,920 --> 00:47:21,280
+Tapi kamu menyuruhku untuk tidak serius dan minum teh santai saja.
+
+618
+00:47:21,280 --> 00:47:25,080
+Jika kamu mengatakan bahwa pakaian ini tidak sopan, maka aku harus pergi seperti ini.
+
+619
+00:47:27,210 --> 00:47:29,280
+Apakah Anda selalu harus melakukan yang sebaliknya?
+
+620
+00:47:39,290 --> 00:47:41,660
+Sae Yi agak aneh.
+
+621
+00:47:41,660 --> 00:47:44,260
+Nuna* Sae Yi? Mengapa?
+(= menyala "kakak perempuan", tapi juga digunakan untuk wanita yang sedikit lebih tua yang tidak ada hubungannya)
+
+622
+00:47:44,260 --> 00:47:46,360
+Dia membuatku bingung.
+
+623
+00:47:46,360 --> 00:47:48,710
+Seperti bagaimana?
+
+624
+00:47:48,710 --> 00:47:52,670
+Malam Natal? Tentu saja saya punya rencana.
+
+625
+00:47:52,670 --> 00:47:55,020
+Kenapa kamu malah bertanya?
+
+626
+00:48:00,760 --> 00:48:02,890
+Apa ada yang bilang kami terlihat seperti pasangan?
+
+627
+00:48:02,890 --> 00:48:05,180
+Orang-orang di kantor sebelah.
+
+628
+00:48:05,180 --> 00:48:07,780
+Ya ampun... Apa yang bisa kulakukan?
+
+629
+00:48:07,780 --> 00:48:11,140
+Aku tidak pernah menganggapmu lebih dari sekedar teman.
+
+630
+00:48:11,140 --> 00:48:13,200
+Dia akan mengatakan itu dan kemudian...
+
+631
+00:48:22,400 --> 00:48:25,000
+- Apa ini?
+- Beberapa lauk pauk.
+
+632
+00:48:26,590 --> 00:48:28,890
+Jangan memesan terlalu banyak.
+
+633
+00:48:28,890 --> 00:48:31,330
+Sudah saatnya kita menjaga kesehatan kita.
+
+634
+00:48:36,010 --> 00:48:37,540
+Berikan aku tanganmu.
+
+635
+00:48:43,770 --> 00:48:46,070
+- Apa ini?
+- Kunyahlah. Ini adalah vitamin jeli.
+
+636
+00:48:46,070 --> 00:48:48,400
+Tidak, tidak apa-apa.
+
+637
+00:49:20,030 --> 00:49:24,670
+Sayap! Saya tidak bisa tidur. Bolehkah saya menelepon?
+
+638
+00:49:33,430 --> 00:49:35,270
+Ini dingin!
+
+639
+00:49:37,410 --> 00:49:39,380
+Ah, ini hangat.
+
+640
+00:49:40,100 --> 00:49:41,830
+Dia selalu seperti itu.
+
+641
+00:49:42,950 --> 00:49:45,230
+Apa pendapatnya tentangku?
+
+642
+00:49:45,230 --> 00:49:48,370
+Apa lagi yang bisa dia pikirkan? Dia pikir kamu benar-benar penurut.
+
+643
+00:49:49,050 --> 00:49:52,640
+- Apa?
+– Saya tidak menginginkannya tetapi tidak ingin memberikannya kepada orang lain.
+
+644
+00:49:52,640 --> 00:49:55,640
+- Bukankah begitu?
+- Itukah yang dia pikirkan?
+
+645
+00:49:56,750 --> 00:49:59,180
+Astaga...
+
+646
+00:49:59,180 --> 00:50:01,350
+Itu sebabnya aku bilang padamu.
+
+647
+00:50:01,350 --> 00:50:03,660
+- Kencan buta.
+- Apa kamu membicarakan Yumi lagi?
+
+648
+00:50:03,660 --> 00:50:06,110
+Kim Yumi yang belum pernah kulihat sebelumnya?
+
+649
+00:50:06,110 --> 00:50:08,670
+Dia benar-benar orang yang hebat!
+
+650
+00:50:08,670 --> 00:50:11,960
+- Kalian akan rukun.
+- Aku sangat tidak suka kencan buta.
+
+651
+00:50:11,960 --> 00:50:14,040
+Tolong percaya padaku sekali saja.
+
+652
+00:50:14,040 --> 00:50:16,980
+Saya terlalu sibuk untuk kencan buta. Apakah dia cantik?
+
+653
+00:50:16,980 --> 00:50:18,380
+Dia lucu.
+
+654
+00:50:18,380 --> 00:50:20,180
+Menurutku dia jelek.
+
+655
+00:50:20,700 --> 00:50:22,240
+Hei...
+
+656
+00:50:22,240 --> 00:50:24,160
+Hei, kemarilah. Lulus!
+
+657
+00:50:24,160 --> 00:50:26,270
+Hei, kamu licik...
+
+658
+00:50:58,600 --> 00:51:02,470
+Kalau begitu sampai jumpa di depan Air Mancur Bonjour jam 3 sore.
+
+659
+00:51:02,470 --> 00:51:06,720
+Baiklah. Saya membawa tas merah hari ini.
+
+660
+00:51:42,300 --> 00:51:51,200
+♫ Saat aku berkeliaran di jalan setelah seharian bekerja keras ♫
+
+661
+00:51:51,300 --> 00:51:58,000
+♫ Saat aku melihat langit di atas yang penuh bintang ♫
+
+662
+00:51:58,000 --> 00:52:07,300
+Halo.
+♫ Bahkan jika aku tidak mengulurkan tanganku, perasaan hangat ♫
+
+663
+00:52:07,300 --> 00:52:16,100
+♫datang dan menghiburku ♫
+
+664
+00:52:16,100 --> 00:52:18,460
+♫ Seperti bintang ♫
+
+665
+00:52:18,460 --> 00:52:21,120
+♫ Selalu berada di sisiku ♫
+
+666
+00:52:21,120 --> 00:52:22,790
+Halo.
+
+667
+00:52:22,790 --> 00:52:27,120
+♫Seperti bintang yang bersinar di kegelapan malam ♫
+
+668
+00:52:27,120 --> 00:52:33,880
+♫selalu bersinar terang di sisiku ♫
+
+669
+00:52:33,880 --> 00:52:36,160
+♫Seperti bintang ♫
+
+670
+00:52:36,160 --> 00:52:40,480
+♫sambil menatapku tersenyum cerah ♫
+
+671
+00:52:40,480 --> 00:52:46,820
+♫Kamu yang sangat berharga bagiku ♫
+
+672
+00:52:46,900 --> 00:52:53,100
+♫Selalu di sisiku, tetap di sisiku ♫
+
+673
+00:52:53,100 --> 00:52:56,120
+Apa yang terjadi?
+
+674
+00:52:56,120 --> 00:52:59,580
+Apakah nama Anda Gu Wung?
+
+675
+00:53:00,400 --> 00:53:01,980
+Apa yang terjadi?
+
+676
+00:53:01,980 --> 00:53:04,100
+Dia cantik.
+
+677
+00:53:11,160 --> 00:53:14,090
+Apakah Anda Gu Wung?
+
+678
+00:53:14,090 --> 00:53:18,260
+Bahkan suaranya lucu.
+
+679
+00:53:18,260 --> 00:53:21,760
+Kamu bukan Gu Wung?
+
+680
+00:53:23,420 --> 00:53:25,370
+Saya minta maaf.
+
+681
+00:53:25,370 --> 00:53:27,390
+Saya.
+
+682
+00:53:31,830 --> 00:53:34,360
+Saya Gu Wung.
+
+683
+00:53:51,380 --> 00:53:52,480
+saya gugup.
+
+684
+00:53:52,480 --> 00:53:54,970
+Tapi jangan gugup, Wung! Baiklah?
+
+685
+00:53:54,970 --> 00:53:57,710
+Kita hanya perlu mengikuti "The Blind Date Manual".
+
+686
+00:53:57,710 --> 00:54:00,550
+Pertama, bawa dia ke kafe dan tanyakan apakah dia ingin minum teh.
+
+687
+00:54:00,550 --> 00:54:02,350
+Setelah itu... Apa?
+
+688
+00:54:03,640 --> 00:54:05,550
+Apa ini?
+
+689
+00:54:07,430 --> 00:54:10,490
+Jangan bilang pikirannya menjadi kosong!
+
+690
+00:54:10,490 --> 00:54:11,920
+Semua orang!
+
+691
+00:54:11,920 --> 00:54:14,380
+Pikirannya menjadi kosong.
+
+692
+00:54:16,240 --> 00:54:20,190
+Ini adalah pertama kalinya sejak dia menjadi senior mengikuti ujian masuk perguruan tinggi.
+
+693
+00:54:20,190 --> 00:54:23,890
+Bagian Bahasa Asing
+
+694
+00:54:26,200 --> 00:54:27,830
+Ini buruk!
+
+695
+00:54:27,830 --> 00:54:31,410
+Pikirannya menjadi kosong di depan kencan butanya!
+
+696
+00:54:33,090 --> 00:54:35,360
+Apakah ada orang di sana?
+
+697
+00:54:35,360 --> 00:54:38,270
+Seseorang bantu aku!
+
+698
+00:54:38,270 --> 00:54:43,500
+Saya tidak tahu harus berkata apa!
+
+699
+00:54:52,440 --> 00:54:54,750
+Kenapa dia tidak mengatakan apa-apa? Apakah dia idiot?
+
+700
+00:54:54,750 --> 00:54:57,800
+Ada apa dengan gaya rambutnya? Apakah dia pikir dia Beethoven?
+
+701
+00:54:57,800 --> 00:55:01,500
+Dia memiliki janggut. Saya sangat membencinya.
+
+702
+00:55:01,500 --> 00:55:03,620
+Lihatlah celana pendek dan sandal jepitnya.
+
+703
+00:55:03,620 --> 00:55:06,980
+Jelas sekali pria ini tidak punya sopan santun.
+
+704
+00:55:08,480 --> 00:55:09,650
+Saya tidak menyukainya.
+
+705
+00:55:09,650 --> 00:55:13,490
+Aku takut dengan tipe pria seperti itu. Dia terlihat seperti pengganggu.
+
+706
+00:55:13,490 --> 00:55:15,240
+Tapi dia memiliki wajah yang tampan.
+
+707
+00:55:15,240 --> 00:55:18,830
+Siapa yang peduli jika dia tampan? Dia terlihat tipe orang yang tidak mandi.
+
+708
+00:55:18,830 --> 00:55:21,660
+Jenggotnya berantakan.
+
+709
+00:55:21,660 --> 00:55:23,790
+Tidak ada lagi yang bisa dilihat. Saya tidak menyukainya.
+
+710
+00:55:23,790 --> 00:55:27,080
+Tetap saja, jangan membuatnya terlalu jelas, demi Wu Gi.
+
+711
+00:55:27,080 --> 00:55:28,890
+Jangan khawatir. Kami punya ini.
+
+712
+00:55:28,890 --> 00:55:32,030
+Anda tahu latihannya. Tunjukkan pada kami beberapa reaksi.
+
+713
+00:55:32,030 --> 00:55:33,800
+Halo!
+
+714
+00:55:33,800 --> 00:55:35,490
+Halo!
+
+715
+00:55:35,490 --> 00:55:39,010
+Wu Gi telah memberitahuku banyak hal tentangmu.
+
+716
+00:55:39,010 --> 00:55:42,390
+Dia memberitahuku berkali-kali bahwa kamu adalah teman baik.
+
+717
+00:55:42,390 --> 00:55:45,140
+Itu sebabnya aku ingin bertemu denganmu sekali.
+
+718
+00:55:46,480 --> 00:55:48,230
+Ah...
+
+719
+00:55:48,960 --> 00:55:50,770
+Maaf?
+
+720
+00:55:50,770 --> 00:55:52,710
+Kenapa dia tidak mengatakan apa-apa?
+
+721
+00:55:52,710 --> 00:55:54,450
+Bukankah dia menyukai Yumi?
+
+722
+00:55:54,450 --> 00:55:57,020
+Apakah dia mempunyai standar yang tinggi? Dia sungguh menyebalkan.
+
+723
+00:55:57,020 --> 00:55:59,380
+Ayo cepat ambil kopi dan pergi.
+
+724
+00:55:59,380 --> 00:56:02,480
+Hari ini panas, bukan?
+
+725
+00:56:02,480 --> 00:56:04,620
+Cuacanya panas sekali hari ini, ya?
+
+726
+00:56:04,620 --> 00:56:06,180
+Apakah Anda ingin pergi minum kopi?
+
+727
+00:56:06,180 --> 00:56:10,410
+Ada tempat yang rutin saya kunjungi, saya sangat merekomendasikannya. Itu tepat di depan sini.
+
+728
+00:56:10,410 --> 00:56:12,460
+Apakah kamu tidak ingin pergi?
+
+729
+00:56:12,460 --> 00:56:14,590
+Tapi itu sangat dekat.
+
+730
+00:56:19,850 --> 00:56:22,610
+Lalu kemana kita harus pergi?
+
+731
+00:56:26,410 --> 00:56:28,290
+Kemana kamu pergi?
+
+732
+00:56:28,290 --> 00:56:30,620
+Permisi, Tuan Gu Wung.
+
+733
+00:56:35,250 --> 00:56:38,080
+Kemana kamu pergi?
+
+734
+00:56:38,080 --> 00:56:38,880
+Apa?
+
+735
+00:56:38,880 --> 00:56:43,120
+Aku bertanya, kemana kamu akan pergi?
+
+736
+00:56:43,120 --> 00:56:45,020
+Tempat yang Anda rekomendasikan.
+
+737
+00:56:47,220 --> 00:56:52,460
+Saya bingung. Bukan seperti itu, kita harus melalui jalan ini.
+
+738
+00:57:14,440 --> 00:57:15,830
+Itu di sini.
+
+739
+00:57:15,830 --> 00:57:19,160
+Mereka berspesialisasi dalam kopi tuang. Itu bagus.
+
+740
+00:57:22,120 --> 00:57:23,590
+Apakah kamu ingin masuk?
+
+741
+00:57:23,590 --> 00:57:26,190
+Jika tidak, kita bisa pergi ke tempat lain...
+
+742
+00:57:29,280 --> 00:57:33,040
+Saya minta maaf.
+
+743
+00:57:36,260 --> 00:57:38,540
+Apakah kamu baik-baik saja?
+
+744
+00:57:42,920 --> 00:57:44,730
+Wah, ada apa dengan dia?
+
+745
+00:57:44,730 --> 00:57:46,940
+Bukankah dia benar-benar idiot?
+
+746
+00:57:46,940 --> 00:57:48,880
+Teman-teman!
+
+747
+00:57:48,880 --> 00:57:52,070
+Wung benar-benar idiot!
+
+748
+00:57:52,070 --> 00:57:54,990
+Tolong, siapapun, jawab aku. Silakan?
+
+749
+00:57:54,990 --> 00:57:56,770
+Di sini.
+
+750
+00:57:56,770 --> 00:58:00,290
+- Apa, siapa di sana?
+- Aku di sini.
+
+751
+00:58:00,290 --> 00:58:01,820
+Singkirkan kekhawatiran Anda.
+
+752
+00:58:01,820 --> 00:58:05,210
+Saya akan mengendalikan Wung.
+
+753
+00:58:05,210 --> 00:58:06,760
+Siapa yang bicara sekarang?
+
+754
+00:58:06,760 --> 00:58:09,470
+Aku? Saya adalah elemen penting dari kencan buta.
+
+755
+00:58:09,470 --> 00:58:11,440
+Seorang ahli adlibs.
+
+756
+00:58:11,440 --> 00:58:12,440
+Siapa?
+
+757
+00:58:12,440 --> 00:58:14,770
+Jangan bilang kamu...
+
+758
+00:58:14,770 --> 00:58:15,750
+Ini aku!
+
+759
+00:58:15,750 --> 00:58:18,020
+Sel humor Wung!
+
+760
+00:58:18,020 --> 00:58:22,420
+Aku akan membuatnya menjadi hit hari ini juga! Pang! Pang!
+
+761
+00:58:25,610 --> 00:58:27,770
+Apakah kamu baik-baik saja?
+
+762
+00:58:28,830 --> 00:58:31,620
+Saya pikir Anda perlu mengoleskan salep.
+
+763
+00:58:32,780 --> 00:58:36,190
+Apakah apotek juga buka hari ini?
+
+764
+00:58:36,190 --> 00:58:39,300
+Jam berapa sekarang?
+
+765
+00:58:39,300 --> 00:58:42,100
+Apakah Anda bertanya jam berapa sekarang?
+
+766
+00:58:43,620 --> 00:58:46,240
+- Ya.
+- Ini Seoul*.
+(*T/N: Seoul kotanya terdengar sama dengan waktu Seoul.)
+
+767
+00:58:56,090 --> 00:58:58,820
+Jam berapa? Itu Seoul.
+
+768
+00:59:02,490 --> 00:59:04,120
+Itu lucu.
+
+769
+00:59:04,120 --> 00:59:06,420
+- Apakah kamu tahu yang ini?
+- Apa?
+
+770
+00:59:06,420 --> 00:59:09,740
+Tahukah Anda apa yang dikatakan seorang pria ketika dia memperkenalkan dirinya?
+
+771
+00:59:09,740 --> 00:59:10,980
+Saya tidak yakin.
+
+772
+00:59:10,980 --> 00:59:13,010
+Saya seorang pria sejati*.
+(*Kedengarannya sama dengan Sim Sa Im Dang, seorang seniman Korea dari Dinasti Joseon. Dia ada di uang kertas 50.000 won Korea.
+
+773
+00:59:27,610 --> 00:59:29,100
+Itu dia!
+
+774
+00:59:29,100 --> 00:59:30,810
+Ini langsung berhasil.
+
+775
+00:59:30,810 --> 00:59:34,200
+Sesuai dugaan, ini sukses!
+
+776
+00:59:36,020 --> 00:59:37,980
+Lucu sekali!
+
+777
+00:59:37,980 --> 00:59:42,650
+Hei, dia benar-benar yang terburuk.
+
+778
+00:59:42,650 --> 00:59:45,500
+"Aku seorang pria terhormat!"
+
+779
+00:59:45,500 --> 00:59:47,930
+"Aku seorang pria sejati!"
+
+780
+00:59:47,930 --> 00:59:50,150
+Lucu sekali.
+
+781
+00:59:50,150 --> 00:59:51,560
+That's hilarious.
+
+782
+00:59:51,560 --> 00:59:54,990
+♫ Are you paying attention to me? ♫
+
+783
+00:59:54,990 --> 00:59:58,560
+♫ Or is it meaningless? ♫
+
+784
+00:59:58,560 --> 01:00:03,160
+♫ In my busy head all day ♫
+
+785
+01:00:03,160 --> 01:00:09,370
+♫ I'm going to continue to keep it hidden so you won't know how I feel. ♫
+
+786
+01:00:16,930 --> 01:00:21,840
+♫ Am I the only one you're nice to? Am I the only one who thinks so? ♫
+
+787
+01:00:21,840 --> 01:00:26,440
+. ♫ Di dalam diriku kacau balau. ♫
+
+788
+01:00:26,440 --> 01:00:28,970
+. ♫ Aku sangat ingin tahu perasaanmu ♫
+
+789
+01:00:28,970 --> 01:00:32,180
+Pratinjau
+
+790
+01:00:32,180 --> 01:00:34,810
+Akan menyenangkan di sana. Tidak ada tempat seperti itu, kan?
+
+791
+01:00:34,810 --> 01:00:36,070
+Mereka terlihat serasi bersama.
+
+792
+01:00:36,070 --> 01:00:37,430
+Kenapa kalian berdua bersama?
+
+793
+01:00:37,430 --> 01:00:40,760
+Sekarang Ruby tahu, betapa bersemangatnya dia besok?
+
+794
+01:00:40,760 --> 01:00:43,540
+Itu sebabnya aku menyuruhmu cepat pulang!
+
+795
+01:00:43,540 --> 01:00:45,430
+Aku belum mau pulang.
+
+796
+01:00:45,430 --> 01:00:46,770
+Bagaimana kencan butamu?
+
+797
+01:00:46,770 --> 01:00:48,730
+Siapa pria yang benar-benar tampan?
+
+798
+01:00:48,730 --> 01:00:50,510
+Ada wanita yang seperti itu.
+
+799
+01:00:50,510 --> 01:00:55,590
+Jika dia selalu membalas pesannya terlambat atau tidak membalas sama sekali seperti ini, anggap saja ini sebagai penolakan.
+
+800
+01:00:55,590 --> 01:00:57,850
+Jangan kalah dari Histerius!
+
+801
+01:00:57,850 --> 01:01:01,020
+Anda mungkin menyesal membiarkannya pergi.
+
+802
+01:01:01,020 --> 01:01:05,620
+♫ Aku sangat penasaran hingga membuatku gila ♫
+
